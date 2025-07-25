@@ -1,0 +1,12 @@
+# Ignore all PDF files
+*.pdf
+
+# Local environment file
+.env.local
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/

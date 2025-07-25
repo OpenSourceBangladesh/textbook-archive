@@ -1,0 +1,7 @@
+# ২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের প্রথম শ্রেণির পাঠ্যপুস্তক
+
+| ক্রমিক | পাঠ্যপুস্তকের নাম (বাংলা ভার্সন) | ডাউনলোড | পাঠ্যপুস্তকের নাম (ইংরেজি ভার্সন ) | ডাউনলোড |
+| --- | --- | --- | --- | --- |
+| ১। | আমার বাংলা বই | [ডাউনলোড লিংক-১](http://drive.google.com/file/d/1XFeh1kDvWoBtYza8jft5cwrPVhEcseD5/view?usp=drive_link)<br>[ডাউনলোড লিংক-২](https://drive.egovcloud.gov.bd/index.php/s/mwk92EZzEiVcVs7) | আমার বাংলা বই | [ডাউনলোড লিংক-১](http://drive.google.com/file/d/1XFeh1kDvWoBtYza8jft5cwrPVhEcseD5/view?usp=drive_link)<br>[ডাউনলোড লিংক-২](https://drive.egovcloud.gov.bd/index.php/s/mwk92EZzEiVcVs7) |
+| ২। | English for Today | [ডাউনলোড লিংক-১](http://drive.google.com/file/d/1fEi4o-cRb-uIuXb0YllOylOLwPKg9003/view?usp=drive_link)<br>[ডাউনলোড লিংক-২](https://drive.egovcloud.gov.bd/index.php/s/fSMOWCSv3zSH5pd) | English for Today | [ডাউনলোড লিংক-১](http://drive.google.com/file/d/1fEi4o-cRb-uIuXb0YllOylOLwPKg9003/view?usp=drive_link)<br>[ডাউনলোড লিংক-২](https://drive.egovcloud.gov.bd/index.php/s/fSMOWCSv3zSH5pd) |
+| ৩। | প্রাথমিক গণিত | [ডাউনলোড লিংক-১](http://drive.google.com/file/d/1sQ9gxdNIKpsBwvbCfOV0Ek6Xmjw90W9B/view?usp=drive_link)<br>[ডাউনলোড লিংক-২](https://drive.egovcloud.gov.bd/index.php/s/2ve9vfhXZVLtrBg) | প্রাথমিক গণিত | [ডাউনলোড লিংক-১](http://drive.google.com/file/d/1N6kaGOYkITwR65sKfMBE3JtX9eLgFBSC/view?usp=drive_link)<br>[ডাউনলোড লিংক-২](https://drive.egovcloud.gov.bd/index.php/s/w4flCoTsV5CMPk3) |

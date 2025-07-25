@@ -1,0 +1,4337 @@
+{
+  "scan_time": "2025-07-20 20:25:41",
+  "total_found": 617,
+  "existing_files": 932,
+  "newly_downloaded": 0,
+  "total_successful": 616,
+  "total_failed": 1,
+  "downloaded_files": {
+    "2025\\higher-secondary\\PDFs\\সাহিত্যপাঠ_1.pdf": {
+      "book_name": "সাহিত্যপাঠ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/11tNq5F0bfYFf5QexWOWAz3VlpryMlaFD/view?usp=drive_link",
+      "file_size": 25536959,
+      "status": "existing_file"
+    },
+    "2025\\higher-secondary\\PDFs\\সাহিত্যপাঠ_2.pdf": {
+      "book_name": "সাহিত্যপাঠ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/gAg4tVBh1NtC7fI",
+      "file_size": 25536959,
+      "status": "existing_file"
+    },
+    "2025\\higher-secondary\\PDFs\\সহপাঠ_1.pdf": {
+      "book_name": "সহপাঠ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1xwZ1GmHSRS5v39YMnsz84DsvAq8enGIE/view?usp=drive_link",
+      "file_size": 13341262,
+      "status": "existing_file"
+    },
+    "2025\\higher-secondary\\PDFs\\সহপাঠ_2.pdf": {
+      "book_name": "সহপাঠ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/TFYl2lQvEgpSoC5",
+      "file_size": 13341262,
+      "status": "existing_file"
+    },
+    "2025\\higher-secondary\\PDFs\\English for Today_1.pdf": {
+      "book_name": "English for Today",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1MJuzkvoyB57hueE2qasG3ou9nokQHY7T/view?usp=drive_link",
+      "file_size": 19163571,
+      "status": "existing_file"
+    },
+    "2025\\higher-secondary\\PDFs\\English for Today_2.pdf": {
+      "book_name": "English for Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/eIG7ValrIn4vZp0",
+      "file_size": 19163571,
+      "status": "existing_file"
+    },
+    "2025\\higher-secondary\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_1.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/16AVZQzh9LRq4_o238_bdM16jd57ZuNC8/view?usp=drive_link",
+      "file_size": 14816854,
+      "status": "existing_file"
+    },
+    "2025\\higher-secondary\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_2.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/WWBu9toXkYIVNVG",
+      "file_size": 14816854,
+      "status": "existing_file"
+    },
+    "2025\\higher-secondary\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি (ইংলিশ ভার্সন)_1.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি (ইংলিশ ভার্সন)",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1eCW2zRZLdp-fDrLy8SwSil5G-0u3jYyB/view?usp=drive_link",
+      "file_size": 14241534,
+      "status": "existing_file"
+    },
+    "2025\\higher-secondary\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি (ইংলিশ ভার্সন)_2.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি (ইংলিশ ভার্সন)",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/048kI3qqHRVBoDF",
+      "file_size": 14241534,
+      "status": "existing_file"
+    },
+    "2025\\pre-primary\\tribe\\PDFs\\১._1.pdf": {
+      "book_name": "১.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1E0HPX3bkiaRoTXQMrR8IyrrxSfxfJJNH/view?usp=drive_link",
+      "file_size": 9744641,
+      "status": "existing_file"
+    },
+    "2025\\pre-primary\\tribe\\PDFs\\১._2.pdf": {
+      "book_name": "১.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/jLli7eWYYcyPlq9",
+      "file_size": 9214062,
+      "status": "existing_file"
+    },
+    "2025\\pre-primary\\tribe\\PDFs\\২._1.pdf": {
+      "book_name": "২.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1vKCbY28tLlELLgt57ePUTN7GJy0ua8s7/view?usp=drive_link",
+      "file_size": 5294903,
+      "status": "existing_file"
+    },
+    "2025\\pre-primary\\tribe\\PDFs\\২._2.pdf": {
+      "book_name": "২.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/n1brtkxNVnppC1u",
+      "file_size": 5294903,
+      "status": "existing_file"
+    },
+    "2025\\primary\\tribe\\PDFs\\আমার বাংলা বই_1.pdf": {
+      "book_name": "আমার বাংলা বই",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1z0L4R6Dkg5UPbruHhMJartMdQYGDqzy6/view?usp=drive_link",
+      "file_size": 7074516,
+      "status": "existing_file"
+    },
+    "2025\\primary\\tribe\\PDFs\\আমার বাংলা বই_2.pdf": {
+      "book_name": "আমার বাংলা বই",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/aQgUUzuDkjLjB9F",
+      "file_size": 5638539,
+      "status": "existing_file"
+    },
+    "2025\\primary\\tribe\\PDFs\\গণিত_1.pdf": {
+      "book_name": "গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/168Vbj2zXRkYY2Icd8Gd3vX9O0r5N9bBS/view?usp=drive_link",
+      "file_size": 22763911,
+      "status": "existing_file"
+    },
+    "2025\\primary\\tribe\\PDFs\\গণিত_2.pdf": {
+      "book_name": "গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/ytbBkf0dVxvj6gi",
+      "file_size": 7591339,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\1\\PDFs\\আমার বাংলা বই_2.pdf": {
+      "book_name": "আমার বাংলা বই",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/mwk92EZzEiVcVs7",
+      "file_size": 3880745,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\1\\PDFs\\English for Today_2.pdf": {
+      "book_name": "English for Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/fSMOWCSv3zSH5pd",
+      "file_size": 5039176,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\1\\PDFs\\প্রাথমিক গণিত_2.pdf": {
+      "book_name": "প্রাথমিক গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/w4flCoTsV5CMPk3",
+      "file_size": 16049483,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\2\\PDFs\\আমার বাংলা বই_1.pdf": {
+      "book_name": "আমার বাংলা বই",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1VTG5E09kWhbMJGscXbbP0TUoxq_8DU64/view?usp=drive_link",
+      "file_size": 3412657,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\2\\PDFs\\আমার বাংলা বই_2.pdf": {
+      "book_name": "আমার বাংলা বই",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/f80WcbeAaCFlBXW",
+      "file_size": 3412657,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\2\\PDFs\\English for Today_1.pdf": {
+      "book_name": "English for Today",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1ztZFaOwbguKEwqZs_lvuyXsmJgMoUMgk/view?usp=drive_link",
+      "file_size": 12674495,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\2\\PDFs\\English for Today_2.pdf": {
+      "book_name": "English for Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/PzwmPDGK59dRxxM",
+      "file_size": 12674495,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\2\\PDFs\\প্রাথমিক গণিত_1.pdf": {
+      "book_name": "প্রাথমিক গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1c1ehD66Aw6GIW6fcAJmFJZ7FZjA9_myE/view?usp=drive_link",
+      "file_size": 6838834,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\2\\PDFs\\প্রাথমিক গণিত_2.pdf": {
+      "book_name": "প্রাথমিক গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/aBFqRArTUsufipX",
+      "file_size": 6838834,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\আমার বাংলা বই_1.pdf": {
+      "book_name": "আমার বাংলা বই",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1oDk2l0nqtMTIHqLTPqHUuS-bX_CMsaYC/view?usp=drive_link",
+      "file_size": 5217258,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\আমার বাংলা বই_2.pdf": {
+      "book_name": "আমার বাংলা বই",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/xKP8M0XP7I2kQBA",
+      "file_size": 5217258,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\English For Today_1.pdf": {
+      "book_name": "English For Today",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1xlwFzemKHnD3cos1LEbmeEfQN8TmqSnQ/view?usp=drive_link",
+      "file_size": 15762529,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\English For Today_2.pdf": {
+      "book_name": "English For Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/BBpMcvwKKOsc0Em",
+      "file_size": 15762529,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\প্রাথমিক গণিত_1.pdf": {
+      "book_name": "প্রাথমিক গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1sDPIXMvGJeRFDlhwsDRMMiPeQ9DZ3gTN/view?usp=drive_link",
+      "file_size": 12765466,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\প্রাথমিক গণিত_2.pdf": {
+      "book_name": "প্রাথমিক গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/qjEaqM8iV1SlMqh",
+      "file_size": 12765466,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\প্রাথমিক বিজ্ঞান_1.pdf": {
+      "book_name": "প্রাথমিক বিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1kJZvUThpx8ENZOkk-ZWSRjd5Aqzlq02e/view?usp=drive_link",
+      "file_size": 15600046,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\প্রাথমিক বিজ্ঞান_2.pdf": {
+      "book_name": "প্রাথমিক বিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Gv18IArm9kklXRC",
+      "file_size": 15600046,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_1.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/19zQhbl4Wi9TMFLnPZMX6Kz3GaXgElRiw/view?usp=drive_link",
+      "file_size": 11035749,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_2.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/l5qFIKtVs7oGI4K",
+      "file_size": 11035749,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\ইসলাম শিক্ষা_1.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1hI0KTt1q3e8th2_oLFflreZ3me1LzLgq/view?usp=drive_link",
+      "file_size": 10793547,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\ইসলাম শিক্ষা_2.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/YBqGG6lzDReKZHV",
+      "file_size": 9769045,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\হিন্দুধর্ম শিক্ষা_1.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/10jgCi5pafv6KIZ3y748rAeoHNaC5eslj/view?usp=drive_link",
+      "file_size": 7973659,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\হিন্দুধর্ম শিক্ষা_2.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/XO4bELKhdGM8kjp",
+      "file_size": 7973659,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\বৌদ্ধধর্ম শিক্ষা_1.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/15d0OpU0q0tiNkTY18jQ1dgb4Gd28-zlQ/view?usp=drive_link",
+      "file_size": 15759082,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\বৌদ্ধধর্ম শিক্ষা_2.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Nm0mwrJpC4BzjG1",
+      "file_size": 15759082,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\খ্রিষ্টধর্ম শিক্ষা_1.pdf": {
+      "book_name": "খ্রিষ্টধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1t-CPAds7g85eua5fiRDEdOpmbZuhHj1r/view?usp=drive_link",
+      "file_size": 12058234,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\3\\PDFs\\খ্রিষ্টধর্ম শিক্ষা_2.pdf": {
+      "book_name": "খ্রিষ্টধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/wC2K060EEAmtvi1",
+      "file_size": 12058234,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\আমার বাংলা বই_1.pdf": {
+      "book_name": "আমার বাংলা বই",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1n3TZcBdT8LQppREBDU3h6oOhTmlGlrY_/view?usp=drive_link",
+      "file_size": 11634634,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\আমার বাংলা বই_2.pdf": {
+      "book_name": "আমার বাংলা বই",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/IozWOFvdANJSEdF",
+      "file_size": 11634634,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\English For Today_1.pdf": {
+      "book_name": "English For Today",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1O6Uot8tmM1sktx875bablzbXoB83A1JK/view?usp=drive_link",
+      "file_size": 8247273,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\English For Today_2.pdf": {
+      "book_name": "English For Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/1j2rEI7OxLzEoOY",
+      "file_size": 8247273,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\প্রাথমিক গণিত_1.pdf": {
+      "book_name": "প্রাথমিক গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1VBgIB_t61oNMwHbe7J6WtUluw9ZQATKX/view?usp=drive_link",
+      "file_size": 18394663,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\প্রাথমিক গণিত_2.pdf": {
+      "book_name": "প্রাথমিক গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/POB0X8B8IbgHRX2",
+      "file_size": 18394663,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\প্রাথমিক বিজ্ঞান_1.pdf": {
+      "book_name": "প্রাথমিক বিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Nkd27g36BtxJnFWfnhS4Oj3N7GE8EZnm/view?usp=drive_link",
+      "file_size": 11548651,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\প্রাথমিক বিজ্ঞান_2.pdf": {
+      "book_name": "প্রাথমিক বিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/ZglLlIYVpJ0vi1w",
+      "file_size": 11548651,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_1.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1NodBxpgoeksx8e5cZyFI_h3yWtVxFrJD/view?usp=drive_link",
+      "file_size": 10271710,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_2.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/YSIT7hFS9G0JS4m",
+      "file_size": 10271710,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\ইসলাম শিক্ষা_1.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1HtK-6UQBnV8qB0bgccP2ZEVWWXz8-6Qa/view?usp=drive_link",
+      "file_size": 10142235,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\ইসলাম শিক্ষা_2.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/wVEs5aY3Z8yTzur",
+      "file_size": 10142235,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\হিন্দুধর্ম শিক্ষা_1.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1a_992uFH1buJDzUOeZzqHgDQc21sFoQc/view?usp=drive_link",
+      "file_size": 7363310,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\হিন্দুধর্ম শিক্ষা_2.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/C9nRJ3wsYvtaaOq",
+      "file_size": 7363310,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\বৌদ্ধধর্ম শিক্ষা_1.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1ZbmzK6Jvvj3h2Tv5CEGPITbrDMKNRIgs/view?usp=drive_link",
+      "file_size": 24995335,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\বৌদ্ধধর্ম শিক্ষা_2.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/YvR0VCei2hOusFQ",
+      "file_size": 12560010,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\খ্রিষ্টধর্ম শিক্ষা_1.pdf": {
+      "book_name": "খ্রিষ্টধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/14KuLhm3zC_PO4meGDVfTiYVbcrv1BvdQ/view?usp=drive_link",
+      "file_size": 10984650,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\4\\PDFs\\খ্রিষ্টধর্ম শিক্ষা_2.pdf": {
+      "book_name": "খ্রিষ্টধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/66qZw6DsabH4clg",
+      "file_size": 12034577,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\আমার বাংলা বই_1.pdf": {
+      "book_name": "আমার বাংলা বই",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1_l_RudEdfGF4bjPIAFHmkzkYpKPriFvK/view?usp=drive_link",
+      "file_size": 22016000,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\আমার বাংলা বই_2.pdf": {
+      "book_name": "আমার বাংলা বই",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/YbHlMpBrSFmqATi",
+      "file_size": 22016000,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\English For Today_1.pdf": {
+      "book_name": "English For Today",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1mYMaa4iG8exP-HjtT_f7Jgss76o3Nd4H/view?usp=drive_link",
+      "file_size": 6663020,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\English For Today_2.pdf": {
+      "book_name": "English For Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/c660NMTjxlHiFXp",
+      "file_size": 6663020,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\প্রাথমিক গণিত_1.pdf": {
+      "book_name": "প্রাথমিক গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/14az_s5HH8EVHQ7usXZ6Q8a194CrVbVoL/view?usp=drive_link",
+      "file_size": 19626651,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\প্রাথমিক গণিত_2.pdf": {
+      "book_name": "প্রাথমিক গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/7sPfazT365WnWee",
+      "file_size": 15522197,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\প্রাথমিক বিজ্ঞান_1.pdf": {
+      "book_name": "প্রাথমিক বিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Fm6OaoL4io2wy3n4Rpkhai5dIJOOka0Q/view?usp=drive_link",
+      "file_size": 11425929,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\প্রাথমিক বিজ্ঞান_2.pdf": {
+      "book_name": "প্রাথমিক বিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/H3uikTV6biKIRsk",
+      "file_size": 11425929,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_1.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1az66eV4MR9CdxYuYVwW7LPXnCVAlcfBt/view?usp=drive_link",
+      "file_size": 15309310,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_2.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/OjtzhQEFchJcpph",
+      "file_size": 10474758,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\ইসলাম শিক্ষা_1.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1uLZd_sOXA-0Wj9tTUPuNjTpzlK-RE46k/view?usp=drive_link",
+      "file_size": 22920202,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\ইসলাম শিক্ষা_2.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/CdgLVb0H07uY0nc",
+      "file_size": 15939818,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\হিন্দুধর্ম শিক্ষা_1.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1OmJKPmQ9fqxH74w8li_62x4uSUuL_gkf/view?usp=drive_link",
+      "file_size": 10308942,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\হিন্দুধর্ম শিক্ষা_2.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/fy5fhkjHkDl8atx",
+      "file_size": 10308942,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\বৌদ্ধধর্ম শিক্ষা_1.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1QezvigstlpDuIKKYvd6fuTPjDKhLtL6T/view?usp=drive_link",
+      "file_size": 19179544,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\বৌদ্ধধর্ম শিক্ষা_2.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Pkhnaqz1LLYsqgH",
+      "file_size": 13132980,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\খ্রিষ্টধর্ম শিক্ষা_1.pdf": {
+      "book_name": "খ্রিষ্টধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/11lRNmqPmcXdJfb1ke3E9SH2JCTlAdkFi/view?usp=drive_link",
+      "file_size": 9661522,
+      "status": "existing_file"
+    },
+    "2025\\primary\\gen\\5\\PDFs\\খ্রিষ্টধর্ম শিক্ষা_2.pdf": {
+      "book_name": "খ্রিষ্টধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/eYWe4xbB7L6L65P",
+      "file_size": 16380652,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\1\\PDFs\\১._1.pdf": {
+      "book_name": "১.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1MTbykaBdc1bTfeqNN5_W0RzPNlG_EVak/view?usp=drive_link",
+      "file_size": 12582027,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\1\\PDFs\\১._2.pdf": {
+      "book_name": "১.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/qh7CyjZUc26CFcq",
+      "file_size": 12582027,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\1\\PDFs\\২._1.pdf": {
+      "book_name": "২.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1vLgwbT2DOz8NoVgdZHoSpWvHzYpPPZ-n/view?usp=drive_link",
+      "file_size": 12026836,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\1\\PDFs\\২._2.pdf": {
+      "book_name": "২.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/DBiiF1MbRgRP9Va",
+      "file_size": 12026836,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\1\\PDFs\\৩._1.pdf": {
+      "book_name": "৩.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1UZ0x1s4AGar08nVm9ui71cERwv_MB1rk/view?usp=drive_link",
+      "file_size": 15045929,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\1\\PDFs\\৩._2.pdf": {
+      "book_name": "৩.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/UNQNDSZaZfWp2bL",
+      "file_size": 15045929,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\1\\PDFs\\৪._1.pdf": {
+      "book_name": "৪.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1zf5MIClKLODj3VHOJ90WlziDVUgyUBRk/view?usp=drive_link",
+      "file_size": 12908305,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\1\\PDFs\\৪._2.pdf": {
+      "book_name": "৪.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/6ET8TulZwc6BmZO",
+      "file_size": 12908305,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\1\\PDFs\\৫._1.pdf": {
+      "book_name": "৫.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1swNHksMRhc0ypKFJ10tAPcbTOZ-EglFE/view?usp=drive_link",
+      "file_size": 6039477,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\1\\PDFs\\৫._2.pdf": {
+      "book_name": "৫.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Uz30EhDnJavibOK",
+      "file_size": 6039477,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\1\\PDFs\\৬._1.pdf": {
+      "book_name": "৬.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Vll8p6RZUF9kWOnrG0ZDeU9rPvjevHqK/view?usp=drive_link",
+      "file_size": 11066988,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\1\\PDFs\\৬._2.pdf": {
+      "book_name": "৬.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/frpwvX26cCCf2Hh",
+      "file_size": 11066988,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\2\\PDFs\\১._1.pdf": {
+      "book_name": "১.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1YSnqAMLukNMowvfU3gSaOgO_enbDtHlr/view?usp=drive_link",
+      "file_size": 16019708,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\2\\PDFs\\১._2.pdf": {
+      "book_name": "১.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/QrbP7wusijvzptU",
+      "file_size": 16019708,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\2\\PDFs\\২._1.pdf": {
+      "book_name": "২.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/16WlKOJSANce85RG922tYpxbEBLtehgzz/view?usp=drive_link",
+      "file_size": 19418417,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\2\\PDFs\\২._2.pdf": {
+      "book_name": "২.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/hVjfOcB1iBu9Cq0",
+      "file_size": 19418417,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\2\\PDFs\\৩._1.pdf": {
+      "book_name": "৩.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1KuwwD1dMZstTRalOW_7gmmKY3KAS8lLU/view?usp=drive_link",
+      "file_size": 6568505,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\2\\PDFs\\৩._2.pdf": {
+      "book_name": "৩.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/qn9qCcfqzHE7Lch",
+      "file_size": 6568505,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\2\\PDFs\\৪._1.pdf": {
+      "book_name": "৪.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1s_OOln2QHyUGvpgTF_u2n5Uwxb3srUCW/view?usp=drive_link",
+      "file_size": 12944475,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\2\\PDFs\\৪._2.pdf": {
+      "book_name": "৪.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/a5CtKuLC3CfzfCY",
+      "file_size": 12944475,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\2\\PDFs\\৫._1.pdf": {
+      "book_name": "৫.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1841PbUNnRB26wrW7UfRIUlxOtsptWHqN/view?usp=drive_link",
+      "file_size": 8678794,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\2\\PDFs\\৫._2.pdf": {
+      "book_name": "৫.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/SfzLONcA0Dh6f3W",
+      "file_size": 8678794,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\2\\PDFs\\৬._1.pdf": {
+      "book_name": "৬.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1hNZ7Hj8DJ4OH4AsndtIfZC6s6tSxaS3L/view?usp=drive_link",
+      "file_size": 12128261,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\2\\PDFs\\৬._2.pdf": {
+      "book_name": "৬.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/lPjS0xAFHQTsgTl",
+      "file_size": 12128261,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\১._1.pdf": {
+      "book_name": "১.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1kI4QSyz-Grgmrh_K92Yk6lRutVVWnycg/view?usp=drive_link",
+      "file_size": 26509571,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\১._2.pdf": {
+      "book_name": "১.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/lYpLLt0nbaAiGUR",
+      "file_size": 26509571,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\২._1.pdf": {
+      "book_name": "২.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Ip7KuNrZnFssYrQ_F9J1qvr8hWdbBoho/view?usp=drive_link",
+      "file_size": 24979049,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\২._2.pdf": {
+      "book_name": "২.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/1gqyiOizb0W0ggh",
+      "file_size": 24979049,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\৩._1.pdf": {
+      "book_name": "৩.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1yM1yEnLx4kO5J83mdqabBeEukGy9ATRL/view?usp=drive_link",
+      "file_size": 6750989,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\৩._2.pdf": {
+      "book_name": "৩.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/BXY6WfZ1kaMSBkl",
+      "file_size": 6750989,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\৪._1.pdf": {
+      "book_name": "৪.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1VK2ka5ZkSEIGFu1DwTPgJ4MSdOSqeCfL/view?usp=drive_link",
+      "file_size": 7125314,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\৪._2.pdf": {
+      "book_name": "৪.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/yor87jYZobKEw8V",
+      "file_size": 7125314,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\৫._1.pdf": {
+      "book_name": "৫.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1MOfwfa6r-qRIuusnHCYYpwe_OgI4CEls/view?usp=drive_link",
+      "file_size": 26997948,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\৫._2.pdf": {
+      "book_name": "৫.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/82yaJUUEBgThhWy",
+      "file_size": 26997948,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\৬._1.pdf": {
+      "book_name": "৬.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1usjJxjy5XpbWg-QV3wHkhcucn-SyqQG7/view?usp=drive_link",
+      "file_size": 15893557,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\৬._2.pdf": {
+      "book_name": "৬.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/irEl4hMT7IzORlX",
+      "file_size": 15893557,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\৭._1.pdf": {
+      "book_name": "৭.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1KwizdUozKx1BHHijYbuv11kwpHXTXe5b/view?usp=drive_link",
+      "file_size": 8398408,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\৭._2.pdf": {
+      "book_name": "৭.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/IUM0YTjNQghLc7E",
+      "file_size": 8398408,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\৮._1.pdf": {
+      "book_name": "৮.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Btw96oW5bUTJ53JlWppufHOghz9zGzEu/view?usp=drive_link",
+      "file_size": 13917014,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\3\\PDFs\\৮._2.pdf": {
+      "book_name": "৮.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/e3ITxfeXi8v3M0K",
+      "file_size": 13917014,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\১._1.pdf": {
+      "book_name": "১.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1iO_9skwiu9vnzXlXL_GLYPHsH04qrcf-/view?usp=drive_link",
+      "file_size": 14835345,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\১._2.pdf": {
+      "book_name": "১.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/1OddblE03APQr8T",
+      "file_size": 14835345,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\২._1.pdf": {
+      "book_name": "২.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1duu1zZQqri7hSgLGMsknwO_y6_dgV5KZ/view?usp=drive_link",
+      "file_size": 14098283,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\২._2.pdf": {
+      "book_name": "২.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/q6gnzXkSYSzu6Xz",
+      "file_size": 14098283,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\৩._1.pdf": {
+      "book_name": "৩.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/16HC4ZwznloIo4Su3JAAI3eWYHB6Wp8lg/view?usp=drive_link",
+      "file_size": 19330334,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\৩._2.pdf": {
+      "book_name": "৩.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/GqodelRIYJtNRVU",
+      "file_size": 19330334,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\৪._1.pdf": {
+      "book_name": "৪.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1u1pfK9F1oa6tRBscZU6WlI7HgDTgWVQK/view?usp=drive_link",
+      "file_size": 18206105,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\৪._2.pdf": {
+      "book_name": "৪.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/YjGCaY4tMeqkiNa",
+      "file_size": 18206105,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\৫._1.pdf": {
+      "book_name": "৫.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1LF-RvA21jpdSgvkAzNhr3kSLxPWynPHE/view?usp=drive_link",
+      "file_size": 14967617,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\৫._2.pdf": {
+      "book_name": "৫.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/qyo6m0wLLc59xEv",
+      "file_size": 14967617,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\৬._1.pdf": {
+      "book_name": "৬.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1uJR7WoqlJlhTS1nqG6Gv5a5pEhYrJNR5/view?usp=drive_link",
+      "file_size": 16071067,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\৬._2.pdf": {
+      "book_name": "৬.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/ufLNYCrhz6Iddvd",
+      "file_size": 16071067,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\৭._1.pdf": {
+      "book_name": "৭.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1GMGSL0Ob34h3oG8nwgAJ0hLcp87x4FtP/view?usp=drive_link",
+      "file_size": 14002940,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\৭._2.pdf": {
+      "book_name": "৭.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/h14U5euLRSH0aQP",
+      "file_size": 14002940,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\৮._1.pdf": {
+      "book_name": "৮.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1CH-UqnPYeP_ZXai5C3Lju3WEXFMOV4GZ/view?usp=drive_link",
+      "file_size": 15011887,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\4\\PDFs\\৮._2.pdf": {
+      "book_name": "৮.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/zZjowt2UjG8GG3c",
+      "file_size": 15011887,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\১._1.pdf": {
+      "book_name": "১.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1z8EUXLK7p8LghxXzBC2Fhlym02UQVYja/view?usp=drive_link",
+      "file_size": 22344197,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\১._2.pdf": {
+      "book_name": "১.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/ANWAVSjEFsr81oE",
+      "file_size": 22344197,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\২._1.pdf": {
+      "book_name": "২.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1ujdDG9NfeSwDHnxExMKtYweQD1UOC4PC/view?usp=drive_link",
+      "file_size": 20171907,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\২._2.pdf": {
+      "book_name": "২.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/vbvgTQANvZ2S3SE",
+      "file_size": 20171907,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\৩._1.pdf": {
+      "book_name": "৩.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1udjxe7WpZ0krFn6-T07JS5Gce25fGw0j/view?usp=drive_link",
+      "file_size": 20445500,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\৩._2.pdf": {
+      "book_name": "৩.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/ahsL8BlNpqEzxz1",
+      "file_size": 20445500,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\৪._1.pdf": {
+      "book_name": "৪.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1jezGaK1xLnBDXWbInggqiOx6JRqTHZ_F/view?usp=drive_link",
+      "file_size": 17623719,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\৪._2.pdf": {
+      "book_name": "৪.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/9Pr9S5zJ4TjN5gr",
+      "file_size": 17623719,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\৫._1.pdf": {
+      "book_name": "৫.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/11aRiepLVcD3IyfoPAyphvKpWXSjiHwn9/view?usp=drive_link",
+      "file_size": 16061003,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\৫._2.pdf": {
+      "book_name": "৫.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Oiw2qYWefMl7h6Z",
+      "file_size": 16061003,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\৬._1.pdf": {
+      "book_name": "৬.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1RSC_CPs2n5T3L0CPb4YhCOnAgFT3c7Mn/view?usp=drive_link",
+      "file_size": 20036115,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\৬._2.pdf": {
+      "book_name": "৬.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/n3m7IIrhwqwIYma",
+      "file_size": 20036115,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\৭._1.pdf": {
+      "book_name": "৭.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1pCH5hwRthcgLC7Y0AF7zatqb11zXjwgN/view?usp=drive_link",
+      "file_size": 4773012,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\৭._2.pdf": {
+      "book_name": "৭.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Yd6f3tWLL434rG1",
+      "file_size": 4773012,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\৮._1.pdf": {
+      "book_name": "৮.",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1mYj2X_pRCd9mu2eHzLGcsXtawgbTb_Ds/view?usp=drive_link",
+      "file_size": 22380957,
+      "status": "existing_file"
+    },
+    "2025\\primary\\mad\\5\\PDFs\\৮._2.pdf": {
+      "book_name": "৮.",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/15g6AmTqOLt92Nf",
+      "file_size": 22380957,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\চারুপাঠ_1.pdf": {
+      "book_name": "চারুপাঠ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1HMLLnPvoFbwdLUYOyuOYKkuTma6oI0gD/view?usp=drive_link",
+      "file_size": 20934211,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\চারুপাঠ_2.pdf": {
+      "book_name": "চারুপাঠ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/9GqLTbn1DnLb5Cc",
+      "file_size": 20934211,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\আনন্দপাঠ_1.pdf": {
+      "book_name": "আনন্দপাঠ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/16L1WW3QTqQfai9aPayV0gyE5igRMiFeL/view?usp=drive_link",
+      "file_size": 13925782,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\আনন্দপাঠ_2.pdf": {
+      "book_name": "আনন্দপাঠ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/tWLhX0VIKsczDOe",
+      "file_size": 13925782,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\বাংলা ব্যাকরণ ও নির্মিতি_1.pdf": {
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1AQo5mMLwsMa_ASt0uYANyl7Cb7zaqq6i/view?usp=drive_link",
+      "file_size": 39205316,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\বাংলা ব্যাকরণ ও নির্মিতি_2.pdf": {
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/zRgnlRMYUwjj6ej",
+      "file_size": 39205316,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\English For Today_1.pdf": {
+      "book_name": "English For Today",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1aX0Py2PLwSgh-NVUsTqfI0bqEplYo7WV/view?usp=drive_link",
+      "file_size": 22336569,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\English For Today_2.pdf": {
+      "book_name": "English For Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/gJnI1fP2GIwK35I",
+      "file_size": 22336569,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\English Grammar and Composition_1.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Tgrw_QZJwpUCKV3LJzcCTZ0Dvhz-bOF0/view?usp=drive_link",
+      "file_size": 15397360,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\English Grammar and Composition_2.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/5o4Dhpi9NiRJqxY",
+      "file_size": 15397360,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\গণিত_1.pdf": {
+      "book_name": "গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1FGMGsUFo3tMWw9sc9ZlpmmEqpqFzH33F/view?usp=drive_link",
+      "file_size": 21098764,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\গণিত_2.pdf": {
+      "book_name": "গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/k5sgqVENArHXv8Z",
+      "file_size": 21098764,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_1.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1livS4uNclZ_0-9jp44pcOEY5tr9iHqbj/view?usp=drive_link",
+      "file_size": 14317353,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_2.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/RsBeRchCk5MBGFU",
+      "file_size": 14317353,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_1.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1gab-_SnIZoqaTnXDrd84iZYDByd6Nq8c/view?usp=drive_link",
+      "file_size": 11195940,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_2.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/9afdFU3yU7GRMY0",
+      "file_size": 11195940,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\বিজ্ঞান_1.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1B2R3cuqad_e7SEQVBlucFj-wREX82veT/view?usp=drive_link",
+      "file_size": 21199369,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\বিজ্ঞান_2.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/yRLJssqLm7GefxF",
+      "file_size": 21199369,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\শারীরিক শিক্ষা ও স্বাস্থ্য_1.pdf": {
+      "book_name": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1ySOW8vohFtVi7mkIhtFzIvvOVdxJ7TNm/view?usp=drive_link",
+      "file_size": 10730065,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\শারীরিক শিক্ষা ও স্বাস্থ্য_2.pdf": {
+      "book_name": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/kRVFOfMT3aT7wRM",
+      "file_size": 10730065,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\কর্ম ও জীবনমুখী শিক্ষা_1.pdf": {
+      "book_name": "কর্ম ও জীবনমুখী শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1H-lAgzrIO6Y7A2wSso8liL7cMbgWg-o9/view?usp=drive_link",
+      "file_size": 11640106,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\কর্ম ও জীবনমুখী শিক্ষা_2.pdf": {
+      "book_name": "কর্ম ও জীবনমুখী শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/l1oloJsjhZP4Fl1",
+      "file_size": 11640106,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\কৃষিশিক্ষা_1.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1hgI2oM5uWHacmGXIhj1m4NDUKbGzQaMq/view?usp=drive_link",
+      "file_size": 20956960,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\কৃষিশিক্ষা_2.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/vBltgPQWQ9YSv4B",
+      "file_size": 20956960,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\গার্হস্থ্যবিজ্ঞান_1.pdf": {
+      "book_name": "গার্হস্থ্যবিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1HwcfcZINjLsa2Kpep_KUeBrCIMBb-hiI/view?usp=drive_link",
+      "file_size": 18062438,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\গার্হস্থ্যবিজ্ঞান_2.pdf": {
+      "book_name": "গার্হস্থ্যবিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/T4oKhruwIZOiYET",
+      "file_size": 18062438,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\চারু ও কারুকলা_1.pdf": {
+      "book_name": "চারু ও কারুকলা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/10pPl7wf1jKGv5vmdbzNyHoyqqnG1O3gt/view?usp=drive_link",
+      "file_size": 12886446,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\চারু ও কারুকলা_2.pdf": {
+      "book_name": "চারু ও কারুকলা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/DhVSJYs0UBv7Pyb",
+      "file_size": 15706419,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\ইসলাম শিক্ষা_1.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1pmfclOdqssY6ve-UsmBM5IbmOXaE9jqc/view?usp=drive_link",
+      "file_size": 18984067,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\ইসলাম শিক্ষা_2.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/XvbCCHhR93Oe8bO",
+      "file_size": 18984067,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\হিন্দুধর্ম শিক্ষা_1.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1LbuPWtNZoCzw_bBREt9ORrKJgz6v0H81/view?usp=drive_link",
+      "file_size": 17867744,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\হিন্দুধর্ম শিক্ষা_2.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Af3ZCCOJD54jGPA",
+      "file_size": 17867744,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\খ্রীষ্টধর্ম শিক্ষা_1.pdf": {
+      "book_name": "খ্রীষ্টধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1FKnBuvLbemC-uw_-1MB1h7QBDMPsLlLs/view?usp=drive_link",
+      "file_size": 17650585,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\খ্রীষ্টধর্ম শিক্ষা_2.pdf": {
+      "book_name": "খ্রীষ্টধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/7f92vfMw2NHboeO",
+      "file_size": 18183588,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\বৌদ্ধধর্ম শিক্ষা_1.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1YDYu7f7GEi0doOgKJ9yFefZ_ocCRXP6T/view?usp=drive_link",
+      "file_size": 19737392,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\বৌদ্ধধর্ম শিক্ষা_2.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/We68zL8OoY3TdJO",
+      "file_size": 19737392,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\সচিত্র আরবি পাঠ_1.pdf": {
+      "book_name": "সচিত্র আরবি পাঠ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1tksx8BwhTP218yRM7P1bwmhd3xdoDHSl/view?usp=drive_link",
+      "file_size": 19486464,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\সচিত্র আরবি পাঠ_2.pdf": {
+      "book_name": "সচিত্র আরবি পাঠ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/5HjdX3nLpKsxPZ6",
+      "file_size": 19486464,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\সংস্কৃত_1.pdf": {
+      "book_name": "সংস্কৃত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/18Jx95IZP7TbgXrMZ5Z6c7bIrbQmr30cT/view?usp=drive_link",
+      "file_size": 6672350,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\সংস্কৃত_2.pdf": {
+      "book_name": "সংস্কৃত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/HT8KHAUzp2YAlCz",
+      "file_size": 6672350,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\পালি_1.pdf": {
+      "book_name": "পালি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1qdERVW4prRebbMVUR6JnDgYh5GzZHhvN/view?usp=drive_link",
+      "file_size": 11264664,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\পালি_2.pdf": {
+      "book_name": "পালি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/O7hnUbOoa9teGAj",
+      "file_size": 11264664,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\সংগীত_1.pdf": {
+      "book_name": "সংগীত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1JGiO5Z04mKfVfjkSj3vYwqZfzEG4ZeoG/view?usp=drive_link",
+      "file_size": 14081784,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\সংগীত_2.pdf": {
+      "book_name": "সংগীত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/62Je2SG6vHRNlCL",
+      "file_size": 14081784,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি_1.pdf": {
+      "book_name": "ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1KbN2MO55vZswm2HLjzqVc7qcGvlKq0rn/view?usp=drive_link",
+      "file_size": 18293647,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\6\\PDFs\\ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি_2.pdf": {
+      "book_name": "ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/NJypvplib9tKvfi",
+      "file_size": 18293647,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\সপ্তবর্ণা_1.pdf": {
+      "book_name": "সপ্তবর্ণা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/15IDsWA0wqIThNLuq8n9ijOsRwXUQJftp/view?usp=drive_link",
+      "file_size": 18898601,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\সপ্তবর্ণা_2.pdf": {
+      "book_name": "সপ্তবর্ণা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/h04DmBQz5UgEzsD",
+      "file_size": 18898601,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\আনন্দপাঠ_1.pdf": {
+      "book_name": "আনন্দপাঠ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1CwvHeLDkUGJU8_r6ChsRSYNs2PBXhRCE/view?usp=drive_link",
+      "file_size": 4775060,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\আনন্দপাঠ_2.pdf": {
+      "book_name": "আনন্দপাঠ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/2hDoTRMdgsNCSau",
+      "file_size": 4775060,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\বাংলা ব্যাকরণ ও নির্মিতি_1.pdf": {
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1gWHxsoJk2BFQ03RmoPIkd-nn5-wZTvJC/view?usp=drive_link",
+      "file_size": 22162861,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\English For Today_1.pdf": {
+      "book_name": "English For Today",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1XTG6vE0RSM645eE5-XAKMirCzGUPPllz/view?usp=drive_link",
+      "file_size": 17852542,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\English For Today_2.pdf": {
+      "book_name": "English For Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/DcULSwLjINShmyT",
+      "file_size": 17852542,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\English Grammar and Composition_1.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/15Odrctw-rj3DAR94NKOZEq2jilXYvXw3/view?usp=drive_link",
+      "file_size": 19572337,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\English Grammar and Composition_2.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/s6LRmVoSI8tple0",
+      "file_size": 19572337,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\গণিত_1.pdf": {
+      "book_name": "গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/17nGqi6XncqZgoZQaEaa_WZyjJoO9emZj/view?usp=drive_link",
+      "file_size": 19272325,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\গণিত_2.pdf": {
+      "book_name": "গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/PpMV14fCizQNDtI",
+      "file_size": 19272325,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_1.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1EZM-Arpp7eW8Ke-4Ds8ETkbt99KZS95r/view?usp=drive_link",
+      "file_size": 11534389,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_2.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/8WnqkydTQe2Kwfy",
+      "file_size": 20920313,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_1.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1V8VQPcreM7j1Mqc4doRZxaU420HTr110/view?usp=drive_link",
+      "file_size": 18124813,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_2.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/KPNUzIRSRBlb0au",
+      "file_size": 19440383,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\বিজ্ঞান_1.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Pl_mZHWr7tFkYibaM5MMlH-OgsVSNAxp/view?usp=drive_link",
+      "file_size": 18118651,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\বিজ্ঞান_2.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/dvpdRE7Br7LUyB6",
+      "file_size": 19440383,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\শারীরিক শিক্ষা ও স্বাস্থ্য_1.pdf": {
+      "book_name": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1VYzECNFHKYphyWhH-GiFLJrOaJh5hO-6/view?usp=drive_link",
+      "file_size": 13647041,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\শারীরিক শিক্ষা ও স্বাস্থ্য_2.pdf": {
+      "book_name": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/lNahYktiIph4pGu",
+      "file_size": 13647041,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\কর্ম ও জীবনমুখী শিক্ষা_1.pdf": {
+      "book_name": "কর্ম ও জীবনমুখী শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Sf9IiA3aG221dfy6WrWUpMG09XVpJtcP/view?usp=drive_link",
+      "file_size": 10741453,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\কর্ম ও জীবনমুখী শিক্ষা_2.pdf": {
+      "book_name": "কর্ম ও জীবনমুখী শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/C6q47FIPM2zGqGA",
+      "file_size": 20781765,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\কৃষিশিক্ষা_1.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1bOTeJWgOrKaDVFKSmVaRwy55_tt5FxoH/view?usp=drive_link",
+      "file_size": 20809557,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\কৃষিশিক্ষা_2.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/wupo1Y958Sdz7S7",
+      "file_size": 20809557,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\গার্হস্থ্যবিজ্ঞান_1.pdf": {
+      "book_name": "গার্হস্থ্যবিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1xpKioY5k0aMlkcDpn_nFYvZr1lXcXX09/view?usp=drive_link",
+      "file_size": 20920313,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\গার্হস্থ্যবিজ্ঞান_2.pdf": {
+      "book_name": "গার্হস্থ্যবিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/8WnqkydTQe2Kwfy",
+      "file_size": 20920313,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\চারু ও কারুকলা_1.pdf": {
+      "book_name": "চারু ও কারুকলা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1tb9qoqYlcfyUv8GQh1NGLOlY4ExhJ_aB/view?usp=drive_link",
+      "file_size": 10874682,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\চারু ও কারুকলা_2.pdf": {
+      "book_name": "চারু ও কারুকলা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/CxFdYd1HEkCUx2d",
+      "file_size": 10874682,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\ইসলাম শিক্ষা_1.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1BWNwxvvIn0XUCR8oKVu3p_szbsxtn93t/view?usp=drive_link",
+      "file_size": 19572280,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\ইসলাম শিক্ষা_2.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/OMUjlIHCwzzg8WW",
+      "file_size": 19572280,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\হিন্দুধর্ম শিক্ষা_1.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1tMZLEWqgbYLoG405JMl1N42mM-6XibKD/view?usp=drive_link",
+      "file_size": 14238705,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\হিন্দুধর্ম শিক্ষা_2.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/pzpEhPRWaMvxmrj",
+      "file_size": 14238705,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\খ্রীষ্টধর্ম শিক্ষা_1.pdf": {
+      "book_name": "খ্রীষ্টধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1sahu5iVn5cu8I4DJG8wcF2zI3z5b-ZhW/view?usp=drive_link",
+      "file_size": 20756834,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\খ্রীষ্টধর্ম শিক্ষা_2.pdf": {
+      "book_name": "খ্রীষ্টধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/3esap2hFt6182Jy",
+      "file_size": 15290756,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\বৌদ্ধধর্ম শিক্ষা_1.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1W1a0JhX4g_vpPQAYm5bQWPB_wfsFMbFX/view?usp=drive_link",
+      "file_size": 22676182,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\বৌদ্ধধর্ম শিক্ষা_2.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/brWgVFrKUczz8vr",
+      "file_size": 22676182,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\সহজ আরবি পাঠ_1.pdf": {
+      "book_name": "সহজ আরবি পাঠ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1-fmIPt8_1Zsf0P_CZweQtQh8Tbde8CpG/view?usp=drive_link",
+      "file_size": 7990751,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\সহজ আরবি পাঠ_2.pdf": {
+      "book_name": "সহজ আরবি পাঠ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/YbXyfFZhvbg7jat",
+      "file_size": 7990751,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\সংস্কৃত_1.pdf": {
+      "book_name": "সংস্কৃত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1uhBjiqwH3jGj0-6I8AY4KuA48h-NQfsj/view?usp=drive_link",
+      "file_size": 8760604,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\সংস্কৃত_2.pdf": {
+      "book_name": "সংস্কৃত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/qlRsXvZuj6wUP0m",
+      "file_size": 8760604,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\পালি_1.pdf": {
+      "book_name": "পালি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1M4ogfdQ2xr56iVoPVpYhtUHMpWSz3b8z/view?usp=drive_link",
+      "file_size": 16594306,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\পালি_2.pdf": {
+      "book_name": "পালি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/dPcCHnkGMURBZ9y",
+      "file_size": 16594306,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\সংগীত_1.pdf": {
+      "book_name": "সংগীত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1a53-DgXmr1n8DyduMzyrdGHDIF8BzUaf/view?usp=drive_link",
+      "file_size": 14007185,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\সংগীত_2.pdf": {
+      "book_name": "সংগীত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/lNKLw2HdFaTQyDX",
+      "file_size": 14007185,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি_1.pdf": {
+      "book_name": "ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1GHagpMQWBw03IDTpynd_7-6U4UGMCpTS/view?usp=drive_link",
+      "file_size": 16040397,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\7\\PDFs\\ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি_2.pdf": {
+      "book_name": "ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/3esap2hFt6182Jy",
+      "file_size": 16429030,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\সাহিত্য-কণিকা_1.pdf": {
+      "book_name": "সাহিত্য-কণিকা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/14Hg8HRdcjqnhy2raqoAbHL8oHLUbUSwA/view?usp=drive_link",
+      "file_size": 19297189,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\সাহিত্য-কণিকা_2.pdf": {
+      "book_name": "সাহিত্য-কণিকা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/SgTEovt8NxWqBis",
+      "file_size": 19297189,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\আনন্দপাঠ_1.pdf": {
+      "book_name": "আনন্দপাঠ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1fm9ocm4MA3n3SFRpX8KM8sNN0-8Wl_ap/view?usp=drive_link",
+      "file_size": 11063919,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\আনন্দপাঠ_2.pdf": {
+      "book_name": "আনন্দপাঠ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/XFrXFBFGGCbQS1p",
+      "file_size": 11063919,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\বাংলা ব্যাকরণ ও নির্মিতি_1.pdf": {
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/117pXoJyf_LnJgxOy7R9-HcYMOGHeh2cq/view?usp=drive_link",
+      "file_size": 17748634,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\বাংলা ব্যাকরণ ও নির্মিতি_2.pdf": {
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/0VnlOZJDlBtxAtw",
+      "file_size": 17748634,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\English For Today_1.pdf": {
+      "book_name": "English For Today",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1N7E-_Dgd1xX5VC4GmJamf4Yo4VEzvTvu/view?usp=drive_link",
+      "file_size": 23662391,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\English For Today_2.pdf": {
+      "book_name": "English For Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/xDfgTiamMnHwHYH",
+      "file_size": 23662391,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\English Grammar and Composition_1.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1MG0Kr84imLCw4gfAPKheQfxZo9JuQ611/view?usp=drive_link",
+      "file_size": 18971050,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\English Grammar and Composition_2.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/XU46PNeZmN9o4rH",
+      "file_size": 18971050,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\গণিত_1.pdf": {
+      "book_name": "গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/19-BM0RFDNg67dfiPjdya_ULIJCFe_Itn/view?usp=drive_link",
+      "file_size": 19150120,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\গণিত_2.pdf": {
+      "book_name": "গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/FIjMg6cxpt4C4jz",
+      "file_size": 19150120,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_1.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Z3f9fIUXTADaCUM0bLZieKH2bqGJw98D/view?usp=drive_link",
+      "file_size": 14220732,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_2.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/PQWSmzwv26jAHyz",
+      "file_size": 14220732,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_1.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1vokuV3oRerVx-p9GkxKiKH0eRj4aACuF/view?usp=drive_link",
+      "file_size": 19752630,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_2.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Cgo65egscarQmOu",
+      "file_size": 19752630,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\বিজ্ঞান_1.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1x4Pb9ytb9CaU18NH2Y62MHgZZhKadFY8/view?usp=drive_link",
+      "file_size": 20108874,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\বিজ্ঞান_2.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/xTAiJpmYK0Ms1Bv",
+      "file_size": 20108874,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\শারীরিক শিক্ষা ও স্বাস্থ্য_1.pdf": {
+      "book_name": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/11SZZ6mlK2_dHI7LopIonSmYXPf1alsxe/view?usp=drive_link",
+      "file_size": 8316829,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\শারীরিক শিক্ষা ও স্বাস্থ্য_2.pdf": {
+      "book_name": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/JfwIjMTNQTwbVPr",
+      "file_size": 10818778,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\কর্ম ও জীবনমুখী শিক্ষা_1.pdf": {
+      "book_name": "কর্ম ও জীবনমুখী শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1wfkrsdi3f9kyNP7M1LYmI2gpQbdH-FoV/view?usp=drive_link",
+      "file_size": 9382239,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\কর্ম ও জীবনমুখী শিক্ষা_2.pdf": {
+      "book_name": "কর্ম ও জীবনমুখী শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/EcANaZDcKZaYCkJ",
+      "file_size": 15646000,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\কৃষিশিক্ষা_1.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1OryZ5xRK3itFLpaZlwnmrGF_BRxPgaqp/view?usp=drive_link",
+      "file_size": 17117130,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\কৃষিশিক্ষা_2.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/OJvrjm7d60GK4Hh",
+      "file_size": 16720685,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\গার্হস্থ্যবিজ্ঞান_1.pdf": {
+      "book_name": "গার্হস্থ্যবিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1_YZytnPwx1MOIYGBoqBliuJg4oMSyVJp/view?usp=drive_link",
+      "file_size": 16558649,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\গার্হস্থ্যবিজ্ঞান_2.pdf": {
+      "book_name": "গার্হস্থ্যবিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Kxeq1LFUPqc88Pn",
+      "file_size": 14158506,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\চারু ও কারুকলা_1.pdf": {
+      "book_name": "চারু ও কারুকলা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/14g0JrkDdzbpGGW3o2ONwQ7fc6DN8Gsq1/view?usp=drive_link",
+      "file_size": 8756931,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\চারু ও কারুকলা_2.pdf": {
+      "book_name": "চারু ও কারুকলা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/OVvu4F6eVSV98Yj",
+      "file_size": 8756931,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\ইসলাম শিক্ষা_1.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1zaEau5hFNcCMBBtaWjlnV0OzuyRRm9wM/view?usp=drive_link",
+      "file_size": 20681334,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\ইসলাম শিক্ষা_2.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/4mZz53TMmYBmdon",
+      "file_size": 20681334,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\হিন্দুধর্ম শিক্ষা_1.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1_riBeeporLqsvXnqXL6THAGaWQOwTKYT/view?usp=drive_link",
+      "file_size": 14901923,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\হিন্দুধর্ম শিক্ষা_2.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/sTInlZjT85Ey6qG",
+      "file_size": 14901923,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\খ্রীষ্টধর্ম শিক্ষা_1.pdf": {
+      "book_name": "খ্রীষ্টধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1BSo9zr-kZ5xJtsMDpDR1-FhMDBo35O5I/view?usp=drive_link",
+      "file_size": 16087943,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\খ্রীষ্টধর্ম শিক্ষা_2.pdf": {
+      "book_name": "খ্রীষ্টধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/nUTqv7eXcd8Hcnh",
+      "file_size": 12903689,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\বৌদ্ধধর্ম শিক্ষা_1.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1korLpjZRhVZiT0Q0VB1Bdsf9hVeKokZl/view?usp=drive_link",
+      "file_size": 16099582,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\বৌদ্ধধর্ম শিক্ষা_2.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/q59mQ84V3mrNeA3",
+      "file_size": 16099582,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\সহজ আরবি পাঠ_1.pdf": {
+      "book_name": "সহজ আরবি পাঠ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1I4966t-MMGWtMvIZeHpddEBNnedALluV/view?usp=drive_link",
+      "file_size": 14844316,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\সহজ আরবি পাঠ_2.pdf": {
+      "book_name": "সহজ আরবি পাঠ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/jTFluSDaoG7qKBG",
+      "file_size": 14844316,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\সংস্কৃত_1.pdf": {
+      "book_name": "সংস্কৃত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1G9lQJ5pWvIQv3CxrsGg0uS8kxay9vC0X/view?usp=drive_link",
+      "file_size": 10752571,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\সংস্কৃত_2.pdf": {
+      "book_name": "সংস্কৃত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/4GH4OEHozQNaod4",
+      "file_size": 10752571,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\পালি_1.pdf": {
+      "book_name": "পালি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1DeUhz6u87tbJ3Bnwr4zqj0MBYgqhqTd5/view?usp=drive_link",
+      "file_size": 16456920,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\পালি_2.pdf": {
+      "book_name": "পালি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/cd3Veb32FGvqar8",
+      "file_size": 16456920,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\সংগীত_1.pdf": {
+      "book_name": "সংগীত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1dNmNrKz3pccmSY9lZEMvRkkwVa9C7cIp/view?usp=drive_link",
+      "file_size": 12332614,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\8\\PDFs\\সংগীত_2.pdf": {
+      "book_name": "সংগীত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/BfG1mwuFzdu80ot",
+      "file_size": 12332614,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বাংলা সাহিত্য_1.pdf": {
+      "book_name": "বাংলা সাহিত্য",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1EL_DZGQXh-w2qVVlHKo_BWOXkiPWGF3R/view?usp=drive_link",
+      "file_size": 16067362,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বাংলা সাহিত্য_2.pdf": {
+      "book_name": "বাংলা সাহিত্য",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/thSe29J0d2ivrVD",
+      "file_size": 16067362,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বাংলা সহপাঠ_1.pdf": {
+      "book_name": "বাংলা সহপাঠ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1uNspy7qUYc8I8WffkaEVt9caBGlS_LCG/view?usp=drive_link",
+      "file_size": 15546996,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বাংলা সহপাঠ_2.pdf": {
+      "book_name": "বাংলা সহপাঠ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/jtTzVkeieqzC4bu",
+      "file_size": 15546996,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বাংলা ভাষার ব্যাকরণ ও নির্মিতি_1.pdf": {
+      "book_name": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/14pcG6SDel6AUzrPZk2qzUjJb_9HYt-sg/view?usp=drive_link",
+      "file_size": 21076169,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বাংলা ভাষার ব্যাকরণ ও নির্মিতি_2.pdf": {
+      "book_name": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/OYM34UsxAnzeGMG",
+      "file_size": 21076169,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\English For Today_1.pdf": {
+      "book_name": "English For Today",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Y7ygihk1dAkbWcBbPG9oFU3F_CCZ1gGa/view?usp=drive_link",
+      "file_size": 13292756,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\English For Today_2.pdf": {
+      "book_name": "English For Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/48FFVgcnd4fTVkF",
+      "file_size": 13292756,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\English Grammar and Composition_1.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1iVqQ5X3jw3UmnHKclSKkDyD4R2m9dY9J/view?usp=drive_link",
+      "file_size": 22458401,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\English Grammar and Composition_2.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/RI8LQEdPKiL47ZT",
+      "file_size": 22458401,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\গণিত_1.pdf": {
+      "book_name": "গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1qMHB4hCVg-5yPtiV5UoWyGf2Q2gpOAqm/view?usp=drive_link",
+      "file_size": 110606802,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\গণিত_2.pdf": {
+      "book_name": "গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/bEJDZFzRXP9cWDz",
+      "file_size": 110606802,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_1.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1AmD4GLeD72M1J4FSW-TUSAfbSwG9VhBO/view?usp=drive_link",
+      "file_size": 10485010,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_2.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/BvZTIaYQmtlVS01",
+      "file_size": 10485010,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বিজ্ঞান_1.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1qp8zs7AWt6JxpqSbncEqh0dabyuJz6yS/view?usp=drive_link",
+      "file_size": 51606717,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বিজ্ঞান_2.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/5aQOSD2fGOpwfvP",
+      "file_size": 51606717,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\পদার্থবিজ্ঞান_1.pdf": {
+      "book_name": "পদার্থবিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1kL28DEmjHdGa1ke8s9em_Bo0mIm3fPcu/view?usp=drive_link",
+      "file_size": 110027135,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\পদার্থবিজ্ঞান_2.pdf": {
+      "book_name": "পদার্থবিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/RiMYVWLlLaexWKq",
+      "file_size": 58001465,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\রসায়ন_1.pdf": {
+      "book_name": "রসায়ন",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1jPQhyTeNrI-e8qQdB-yWbxOhh1XKdEjr/view?usp=drive_link",
+      "file_size": 52346422,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\রসায়ন_2.pdf": {
+      "book_name": "রসায়ন",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/e2BQBJy11TavFU5",
+      "file_size": 52346422,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\জীববিজ্ঞান_1.pdf": {
+      "book_name": "জীববিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1XtQupmVH4YLVdJC6AcpU4WMn_r5cKqwv/view?usp=drive_link",
+      "file_size": 112148953,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\জীববিজ্ঞান_2.pdf": {
+      "book_name": "জীববিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/4VNsoXbTSBxKwJN",
+      "file_size": 112148953,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\উচ্চতর গণিত_1.pdf": {
+      "book_name": "উচ্চতর গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/11fvFRZ-ASnmEEewoNqpzfQW91EoCQUGt/view?usp=drive_link",
+      "file_size": 17569394,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\উচ্চতর গণিত_2.pdf": {
+      "book_name": "উচ্চতর গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/HrYQlxEs0bLIST6",
+      "file_size": 17569394,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\ভূগোল ও পরিবেশ_1.pdf": {
+      "book_name": "ভূগোল ও পরিবেশ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Uiwpl_K5lHpY7yRdljCmvyyKLeWmhEfw/view?usp=drive_link",
+      "file_size": 18956389,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\ভূগোল ও পরিবেশ_2.pdf": {
+      "book_name": "ভূগোল ও পরিবেশ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/nTOcfCRqCa8F6iQ",
+      "file_size": 18956389,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\অর্থনীতি_1.pdf": {
+      "book_name": "অর্থনীতি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1H9MOgYf3_4gEVToqq_prLj7FMFuhOmDs/view?usp=drive_link",
+      "file_size": 15590290,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\অর্থনীতি_2.pdf": {
+      "book_name": "অর্থনীতি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/qWBy8wqaT98QC9U",
+      "file_size": 15590290,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\কৃষিশিক্ষা_1.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1DH0MtYnvSnK0MfISjo4bEYLc2N3p76dk/view?usp=drive_link",
+      "file_size": 22154003,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\কৃষিশিক্ষা_2.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Lv1HUhFvYy9MjWT",
+      "file_size": 22154003,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\গার্হস্থ্যবিজ্ঞান_1.pdf": {
+      "book_name": "গার্হস্থ্যবিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/14naWCQuPeUEzaYf-EVS_52ghlKT_fqeA/view?usp=drive_link",
+      "file_size": 15862452,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\গার্হস্থ্যবিজ্ঞান_2.pdf": {
+      "book_name": "গার্হস্থ্যবিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/fa8BLdbGgGk5d3T",
+      "file_size": 15862452,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\পৌরনীতি ও নাগরিকতা_1.pdf": {
+      "book_name": "পৌরনীতি ও নাগরিকতা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1oK-YxEkYGuZkHZCxpfxTLLjAQblF-EfC/view?usp=drive_link",
+      "file_size": 13340147,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\পৌরনীতি ও নাগরিকতা_2.pdf": {
+      "book_name": "পৌরনীতি ও নাগরিকতা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/vKIz7BtoVmoN8N8",
+      "file_size": 13340147,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\হিসাববিজ্ঞান_1.pdf": {
+      "book_name": "হিসাববিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1USYxWHzOWi0PQFCiASQz_3qLiOBNrmtj/view?usp=drive_link",
+      "file_size": 15024466,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\হিসাববিজ্ঞান_2.pdf": {
+      "book_name": "হিসাববিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/EAdr8Oql2axNblq",
+      "file_size": 15024466,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\ফিন্যান্স ও ব্যাংকিং_1.pdf": {
+      "book_name": "ফিন্যান্স ও ব্যাংকিং",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/17UEPHe1oK4nAvgSu-KBbTQHFyCJ91bY9/view?usp=drive_link",
+      "file_size": 14110139,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\ফিন্যান্স ও ব্যাংকিং_2.pdf": {
+      "book_name": "ফিন্যান্স ও ব্যাংকিং",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/zp2IZlPdbTkLzmC",
+      "file_size": 14110139,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\ব্যবসায় উদ্যোগ_1.pdf": {
+      "book_name": "ব্যবসায় উদ্যোগ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1DbSAWrM6Xn-k23xfhTCx3mb0mNSZofA9/view?usp=drive_link",
+      "file_size": 13909194,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\ব্যবসায় উদ্যোগ_2.pdf": {
+      "book_name": "ব্যবসায় উদ্যোগ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/ygpBaIgKDMFGfNt",
+      "file_size": 15244642,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\ইসলাম শিক্ষা_1.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/10k50ImEJssJEV0Ofnv7UUz9dmU5PlQiS/view?usp=drive_link",
+      "file_size": 17879889,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\ইসলাম শিক্ষা_2.pdf": {
+      "book_name": "ইসলাম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/YjEW4OPD6B6dlcm",
+      "file_size": 22168486,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\হিন্দুধর্ম শিক্ষা_1.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1ydK3Y84_DU4B0kv8gP2NEPSublmOdLMA/view?usp=drive_link",
+      "file_size": 13052523,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\হিন্দুধর্ম শিক্ষা_2.pdf": {
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/jC4zRY2Pqyq6LCG",
+      "file_size": 13052523,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বৌদ্ধধর্ম শিক্ষা_1.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1FjRhLY25XtUuStVNkHgwXDE8fOu3AvxX/view?usp=drive_link",
+      "file_size": 19629443,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বৌদ্ধধর্ম শিক্ষা_2.pdf": {
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/FhbQ2qJGFXkQVOX",
+      "file_size": 17108950,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\খ্রীষ্টধর্ম শিক্ষা_1.pdf": {
+      "book_name": "খ্রীষ্টধর্ম শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/16YP-Wo-hsWU7jQKIA4jmiXN2gjGbMhSN/view?usp=drive_link",
+      "file_size": 17514916,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\খ্রীষ্টধর্ম শিক্ষা_2.pdf": {
+      "book_name": "খ্রীষ্টধর্ম শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/y15yRn2aorqGpMZ",
+      "file_size": 17514916,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\ক্যারিয়ার শিক্ষা_1.pdf": {
+      "book_name": "ক্যারিয়ার শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1fhHIJ2pSKmwqMmTlgy0V1Nv8Nmy9pTka/view?usp=drive_link",
+      "file_size": 8514279,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\ক্যারিয়ার শিক্ষা_2.pdf": {
+      "book_name": "ক্যারিয়ার শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/xMUlQqnlnlii5TB",
+      "file_size": 16365977,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_1.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1HtBkio-VGByD8PLKJ5PTaURcuC5ZkXF3/view?usp=drive_link",
+      "file_size": 24165295,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_2.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/7SMZJJqXOcmJpeu",
+      "file_size": 24165295,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\চারু ও কারুকলা_1.pdf": {
+      "book_name": "চারু ও কারুকলা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Qf1DOdPo0U1Dza24btT8eNewg9PtsIpe/view?usp=drive_link",
+      "file_size": 8116510,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\চারু ও কারুকলা_2.pdf": {
+      "book_name": "চারু ও কারুকলা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Eugy29aGLFjhnHU",
+      "file_size": 8116510,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা_1.pdf": {
+      "book_name": "বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/19imJIV5JI01T19UfZl583TlTLrot6iOO/view?usp=drive_link",
+      "file_size": 22702519,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা_2.pdf": {
+      "book_name": "বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/GuRO5HzXN7t0ir8",
+      "file_size": 22702519,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\শারীরিক শিক্ষা, স্বাস্থ্যবিজ্ঞান ও খেলাধুলা_1.pdf": {
+      "book_name": "শারীরিক শিক্ষা, স্বাস্থ্যবিজ্ঞান ও খেলাধুলা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1hzrpvh9phDKtPmo70gIJuoB5qrD5z4nN/view?usp=drive_link",
+      "file_size": 13473814,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\শারীরিক শিক্ষা, স্বাস্থ্যবিজ্ঞান ও খেলাধুলা_2.pdf": {
+      "book_name": "শারীরিক শিক্ষা, স্বাস্থ্যবিজ্ঞান ও খেলাধুলা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/zfoTVjcuqqmxbhP",
+      "file_size": 13473814,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\আরবি_1.pdf": {
+      "book_name": "আরবি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1S_HjYdu8ObJ3ZZtmv6sTY1_EgJ4NObrx/view?usp=drive_link",
+      "file_size": 21244272,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\আরবি_2.pdf": {
+      "book_name": "আরবি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/q23w6styxOBk2hu",
+      "file_size": 21244272,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\সংস্কৃত_1.pdf": {
+      "book_name": "সংস্কৃত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1IsfgrET1A91KAgyLUfYP-kKSSVQax4Wd/view?usp=drive_link",
+      "file_size": 13050156,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\সংস্কৃত_2.pdf": {
+      "book_name": "সংস্কৃত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/rKlpX2N6H5ntbcM",
+      "file_size": 13050156,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\পালি_1.pdf": {
+      "book_name": "পালি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1zsokXhV-7XxKS0nRP3VqNc-9_ZEqN4CI/view?usp=drive_link",
+      "file_size": 13963788,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\পালি_2.pdf": {
+      "book_name": "পালি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/4xqCmwhOM8iezxv",
+      "file_size": 13963788,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\সংগীত_1.pdf": {
+      "book_name": "সংগীত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1u7Cg0yCwuZy9zxkzFfV_YZst2-B2Ah3_/view?usp=drive_link",
+      "file_size": 15936930,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\gen\\9\\PDFs\\সংগীত_2.pdf": {
+      "book_name": "সংগীত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/pd050auJreb24Ub",
+      "file_size": 15936930,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\চারুপাঠ_1.pdf": {
+      "book_name": "চারুপাঠ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1kVd3rfRShAqe8RBr_ycinoAy_YrYb15M/view?usp=drive_link",
+      "file_size": 6128334,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\চারুপাঠ_2.pdf": {
+      "book_name": "চারুপাঠ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/97uMd7bXASX2z2O",
+      "file_size": 6128334,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\English For Today_1.pdf": {
+      "book_name": "English For Today",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1zJDXITQbqLOL3Wz7uHiShyrYgTV_psBT/view?usp=drive_link",
+      "file_size": 20155884,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\English For Today_2.pdf": {
+      "book_name": "English For Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/TcF3jk4gUhPwrSW",
+      "file_size": 20155884,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\English Grammar and Composition_1.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1p4u3Brbd2yDfdoyxUCbdNp8bvxirDMxP/view?usp=drive_link",
+      "file_size": 15538715,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\English Grammar and Composition_2.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/fg2nCjMy05FAz2r",
+      "file_size": 15538715,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\গণিত_1.pdf": {
+      "book_name": "গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1zymH2vQcL_Q-Ad4UhpHi7tORbDtUrgNG/view?usp=drive_link",
+      "file_size": 19257223,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\গণিত_2.pdf": {
+      "book_name": "গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/IveOjSLhgxPQVmw",
+      "file_size": 19257223,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\বিজ্ঞান_1.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1DZpkVNEUxOV2dzq_7s0KBN60nO-Fuerr/view?usp=drive_link",
+      "file_size": 18448154,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\বিজ্ঞান_2.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/6KJUxKeCxPMy3Wx",
+      "file_size": 18448154,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_1.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1zq2sGCBLTqvP4hUiK4_fH8wS2OxRc4oZ/view?usp=drive_link",
+      "file_size": 3963593,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_2.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/7CmQG9fh024AKSO",
+      "file_size": 3963593,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_1.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1y7H8fnU6UxruLiD_zK2srlQVoQMet5V1/view?usp=drive_link",
+      "file_size": 12161461,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_2.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/rcwDrHJ23Lw7M3N",
+      "file_size": 12161461,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\কৃষিশিক্ষা_1.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1H59Qmm4gQuN2b1KzaZ6lttH_RNsp1fEF/view?usp=drive_link",
+      "file_size": 16587138,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\কৃষিশিক্ষা_2.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/iHNYR4a6IjPRYak",
+      "file_size": 16587138,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\গার্হস্থ্য বিজ্ঞান_1.pdf": {
+      "book_name": "গার্হস্থ্য বিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1i94EbR2abRZXKKzOtDvvzF_AxSzrpflg/view?usp=drive_link",
+      "file_size": 18538618,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\গার্হস্থ্য বিজ্ঞান_2.pdf": {
+      "book_name": "গার্হস্থ্য বিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/qAhmOr7CzRZuZ4l",
+      "file_size": 18538618,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\শারীরিক শিক্ষা ও স্বাস্থ্য_1.pdf": {
+      "book_name": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1G_N1x54oOIFw-vl2IfateaSjAXyhC9AF/view?usp=drive_link",
+      "file_size": 13371430,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\শারীরিক শিক্ষা ও স্বাস্থ্য_2.pdf": {
+      "book_name": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/qAhmOr7CzRZuZ4l",
+      "file_size": 18538618,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\বাংলা ব্যাকরণ ও নির্মিতি_1.pdf": {
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1CrItEnPmiHQW-72N32h6daZCgVXi82RK/view?usp=drive_link",
+      "file_size": 12298729,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\বাংলা ব্যাকরণ ও নির্মিতি_2.pdf": {
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/MABYuo5QKnmLB0i",
+      "file_size": 12298729,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\কুরআন মাজিদ ও তাজভিদ_1.pdf": {
+      "book_name": "কুরআন মাজিদ ও তাজভিদ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1jRnDP3ugbXQ0E243zagDYb0Pi_IKUyFF/view?usp=drive_link",
+      "file_size": 11198243,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\কুরআন মাজিদ ও তাজভিদ_2.pdf": {
+      "book_name": "কুরআন মাজিদ ও তাজভিদ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/o3Vgue4EeKHyluE",
+      "file_size": 11198243,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\আকাইদ ও ফিকহ_1.pdf": {
+      "book_name": "আকাইদ ও ফিকহ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1pbw0yPWFyq1B5ArT5Uq2E4dBik27Ra17/view?usp=drive_link",
+      "file_size": 12047152,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\আকাইদ ও ফিকহ_2.pdf": {
+      "book_name": "আকাইদ ও ফিকহ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/1WsNp1tuUtqL1iq",
+      "file_size": 12047152,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ_1.pdf": {
+      "book_name": "আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1DKEnKGP3_Soh9w-maiD10IKBU-PjA_DA/view?usp=drive_link",
+      "file_size": 13441694,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ_2.pdf": {
+      "book_name": "আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/DK1LTlCjvcFC9Ku",
+      "file_size": 13441694,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\কাওয়াইদুল লুগাতিল আরাবিয়্যাহ_1.pdf": {
+      "book_name": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1DkKNXJHko6KBHiFbBLjZffiMx_HAqT1I/view?usp=drive_link",
+      "file_size": 15367745,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\6\\PDFs\\কাওয়াইদুল লুগাতিল আরাবিয়্যাহ_2.pdf": {
+      "book_name": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/jQ2SmxCNqNE7kjp",
+      "file_size": 15367745,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\সপ্তবর্ণা_1.pdf": {
+      "book_name": "সপ্তবর্ণা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1fhfio1JTOR9YRfWPGABUe5E876NRIcuw/view?usp=drive_link",
+      "file_size": 14135093,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\সপ্তবর্ণা_2.pdf": {
+      "book_name": "সপ্তবর্ণা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/V7uKhTkfQE1nUyL",
+      "file_size": 14135093,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\বাংলা ব্যাকরণ ও নির্মিতি_1.pdf": {
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1h5AXybzIF4QO7soF2qhTATwTR96IHn3F/view?usp=drive_link",
+      "file_size": 16878491,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\বাংলা ব্যাকরণ ও নির্মিতি_2.pdf": {
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/H8dEQFYJNs0CUWv",
+      "file_size": 16878491,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\English For Today_1.pdf": {
+      "book_name": "English For Today",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1e6HNMnZgkZGo8arLTMwtZxZS4ZwqYL6J/view?usp=drive_link",
+      "file_size": 14503147,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\English For Today_2.pdf": {
+      "book_name": "English For Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/e9hzr4YUZ6Og4GF",
+      "file_size": 14503147,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\English Grammar and Composition_1.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1c4nytdegLYv9n-WkuJG3NvpZLfeoOMor/view?usp=drive_link",
+      "file_size": 19436660,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\English Grammar and Composition_2.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/IEnatOm4X9d1lqo",
+      "file_size": 19436660,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\গণিত_1.pdf": {
+      "book_name": "গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1AI1vlqbyDqBHnWi1xmOjfsnEmr40Kpwo/view?usp=drive_link",
+      "file_size": 18436599,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\গণিত_2.pdf": {
+      "book_name": "গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/REz8Q2sHLGMpYi5",
+      "file_size": 18436599,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\বিজ্ঞান_1.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1iwlk1bUj6pkFFJV5QErQ0seED66umRet/view?usp=drive_link",
+      "file_size": 18556759,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\বিজ্ঞান_2.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/epMP4D9AJZLuy9l",
+      "file_size": 18556759,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_1.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1bucQhSGUyQYm5SiK7Lp3Fn-V2TzvcyBF/view?usp=drive_link",
+      "file_size": 19360917,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_2.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/zNl0da8TyicsLFH",
+      "file_size": 19360917,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_1.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/11pnFIdhCmx9KNJJPWG-cWqTJ4v12Z6eZ/view?usp=drive_link",
+      "file_size": 10880472,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_2.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/RrR4NMYmti8q46N",
+      "file_size": 10880472,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\কর্ম ও জীবনমুখী শিক্ষা_1.pdf": {
+      "book_name": "কর্ম ও জীবনমুখী শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1koCFAkuxL2rpquIWhzTw4n34GbTfqty6/view?usp=drive_link",
+      "file_size": 20557394,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\কর্ম ও জীবনমুখী শিক্ষা_2.pdf": {
+      "book_name": "কর্ম ও জীবনমুখী শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/mZr4ut4xpEV8LGs",
+      "file_size": 20557394,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\কৃষিশিক্ষা_1.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/160O1dq0-q_8stCGzvWCK-8VcYxoLCefZ/view?usp=drive_link",
+      "file_size": 16699208,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\কৃষিশিক্ষা_2.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/mlExPf1Psafg3YK",
+      "file_size": 16699208,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\গার্হস্থ্য বিজ্ঞান_1.pdf": {
+      "book_name": "গার্হস্থ্য বিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1ypUtq6b7mh_ph4oOtXpwzlm75t2XvwrB/view?usp=drive_link",
+      "file_size": 19059279,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\গার্হস্থ্য বিজ্ঞান_2.pdf": {
+      "book_name": "গার্হস্থ্য বিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/XfPcayQvXUS0SFD",
+      "file_size": 19059279,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\শারীরিক শিক্ষা ও স্বাস্থ্য_1.pdf": {
+      "book_name": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1gVKk1cUePGPcNSRz1mU1X-ZWqQjDcAmT/view?usp=sharing",
+      "file_size": 4397685,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\শারীরিক শিক্ষা ও স্বাস্থ্য_2.pdf": {
+      "book_name": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/T4IaRZa1CcbZkvS",
+      "file_size": 13202721,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\কুরআন মাজিদ ও তাজভিদ_1.pdf": {
+      "book_name": "কুরআন মাজিদ ও তাজভিদ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1rnQCcfwDx-uWIHyIY3N7kCiEnhmtsTV7/view?usp=drive_link",
+      "file_size": 15452156,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\কুরআন মাজিদ ও তাজভিদ_2.pdf": {
+      "book_name": "কুরআন মাজিদ ও তাজভিদ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/MG8B44wFutAi3W2",
+      "file_size": 15452156,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\আকাইদ ও ফিকহ_1.pdf": {
+      "book_name": "আকাইদ ও ফিকহ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1jjQ_JdOyF-DNUABxfQuyGRRpXnScqte9/view?usp=drive_link",
+      "file_size": 15728465,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\আকাইদ ও ফিকহ_2.pdf": {
+      "book_name": "আকাইদ ও ফিকহ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/qdgNhWfNPf89E0M",
+      "file_size": 15728465,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ_1.pdf": {
+      "book_name": "আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1p-HZuwUkAwxbIDRAeQk6FPoC_QDOLFXM/view?usp=drive_link",
+      "file_size": 11219494,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ_2.pdf": {
+      "book_name": "আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/pTlBc5zbRdS5JqF",
+      "file_size": 11219494,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\কাওয়াইদুল লুগাতিল আরাবিয়্যাহ_1.pdf": {
+      "book_name": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/15xspYHxNB5QSR6bDqB2sPcbtI5yDAjBY/view?usp=drive_link",
+      "file_size": 18535958,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\7\\PDFs\\কাওয়াইদুল লুগাতিল আরাবিয়্যাহ_2.pdf": {
+      "book_name": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/N6rl5jRJvDbddaR",
+      "file_size": 18535958,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\সাহিত্য-কণিকা_1.pdf": {
+      "book_name": "সাহিত্য-কণিকা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/14uLH8NdPr3m5RUlRY3zmyO0CH-gG0swz/view?usp=drive_link",
+      "file_size": 8671624,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\সাহিত্য-কণিকা_2.pdf": {
+      "book_name": "সাহিত্য-কণিকা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/M3WNR9yN0wr6fmW",
+      "file_size": 8671624,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\বাংলা ব্যাকরণ ও নির্মিতি_1.pdf": {
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1LLvY5gLzisOEvaCVhWFjpMupARWrkKIN/view?usp=drive_link",
+      "file_size": 7218621,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\বাংলা ব্যাকরণ ও নির্মিতি_2.pdf": {
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/mFzuzdTSq9LsVKr",
+      "file_size": 7218621,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\English For Today_1.pdf": {
+      "book_name": "English For Today",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1J1W5Z5sFTZsSw3hJPzk6csClW9K3TeKB/view?usp=drive_link",
+      "file_size": 19504730,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\English For Today_2.pdf": {
+      "book_name": "English For Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/caJNNGS8uIAujBs",
+      "file_size": 19504730,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\English Grammar and Composition_1.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1HucygtM0RSqTUW4WWg5QfPQanyIkVG0K/view?usp=drive_link",
+      "file_size": 12819828,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\English Grammar and Composition_2.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/kGrB3uXLPV41ueV",
+      "file_size": 12819828,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\গণিত_1.pdf": {
+      "book_name": "গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1EzV9bVRkS7Xy3b9RYahI9YpbTFN2w-dU/view?usp=drive_link",
+      "file_size": 10245093,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\গণিত_2.pdf": {
+      "book_name": "গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/4Ap8Qv5FPHF9urT",
+      "file_size": 10245093,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\বিজ্ঞান_1.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1l2eOJOJ1nu_n16EEF5R4J3-4nMRPP3O-/view?usp=drive_link",
+      "file_size": 9872474,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\বিজ্ঞান_2.pdf": {
+      "book_name": "বিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/3VbfupZhEjiqo1h",
+      "file_size": 9872474,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\বাংলাদেশ ও বিশ্ব পরিচয়_1.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্ব পরিচয়",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1rQlxAQS5HNHOkb1SD2kwySCWnM3eR2xt/view?usp=drive_link",
+      "file_size": 21483291,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\বাংলাদেশ ও বিশ্ব পরিচয়_2.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্ব পরিচয়",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/YBD6zKe1d8h4o3p",
+      "file_size": 21483291,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_1.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1IGj9neakPX6ZJ8P30r3f4VDytL_C85to/view?usp=drive_link",
+      "file_size": 11517275,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_2.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/CIaAhnKqhpBeCR2",
+      "file_size": 11517275,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\কর্ম ও জীবনমুখী শিক্ষা_1.pdf": {
+      "book_name": "কর্ম ও জীবনমুখী শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1hanucq5RTnWqs08Ll6m6jpWxCvDvCPd3/view?usp=drive_link",
+      "file_size": 4523788,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\কর্ম ও জীবনমুখী শিক্ষা_2.pdf": {
+      "book_name": "কর্ম ও জীবনমুখী শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Fi5xp4rQGKBOMT7",
+      "file_size": 4523788,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\কৃষিশিক্ষা_1.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1bSUrQ17sZBbYW8Qv-UheAGfRtH8NBemr/view?usp=drive_link",
+      "file_size": 7903380,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\কৃষিশিক্ষা_2.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/uCkpPuvRskqMICU",
+      "file_size": 7903380,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\গার্হস্থ্য বিজ্ঞান_1.pdf": {
+      "book_name": "গার্হস্থ্য বিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1MDvBtw7034Kp1p6SaG6Eiv3UAZysBM7q/view?usp=drive_link",
+      "file_size": 7750325,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\গার্হস্থ্য বিজ্ঞান_2.pdf": {
+      "book_name": "গার্হস্থ্য বিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/24bEZhdnbpQRaBT",
+      "file_size": 7750325,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\শারীরিক শিক্ষা ও স্বাস্থ্য_1.pdf": {
+      "book_name": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1E86gfTO2KgJFs0dzYblM41B_uEWiHgvJ/view?usp=drive_link",
+      "file_size": 4101474,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\শারীরিক শিক্ষা ও স্বাস্থ্য_2.pdf": {
+      "book_name": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/1yktCMojEliP5PE",
+      "file_size": 4101474,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\কুরআন মাজিদ ও তাজভিদ_1.pdf": {
+      "book_name": "কুরআন মাজিদ ও তাজভিদ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1V0UTZ3rdmN7l3tS3dbR_JsqOMr5Zf5pe/view?usp=drive_link",
+      "file_size": 15192157,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\কুরআন মাজিদ ও তাজভিদ_2.pdf": {
+      "book_name": "কুরআন মাজিদ ও তাজভিদ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/cOY9UDGgM9br286",
+      "file_size": 15192157,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\আকাইদ ও ফিকহ_1.pdf": {
+      "book_name": "আকাইদ ও ফিকহ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1DfF5q7YaOZwYySlsAmTbj8JwEYZLCmA3/view?usp=drive_link",
+      "file_size": 13231464,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\আকাইদ ও ফিকহ_2.pdf": {
+      "book_name": "আকাইদ ও ফিকহ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/dC7rutf0rpNhDmC",
+      "file_size": 13231464,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ_1.pdf": {
+      "book_name": "আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1k_btFPKYYjW42hUU7vqxzbTtSGldkij5/view?usp=drive_link",
+      "file_size": 5763808,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ_2.pdf": {
+      "book_name": "আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/CWYgoFSvJ0iwsBW",
+      "file_size": 5763808,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\কাওয়াইদুল লুগাতিল আরাবিয়্যাহ_1.pdf": {
+      "book_name": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1PhWu56_GcYRuBHZNHqrzP2uKNDcg_lpP/view?usp=drive_link",
+      "file_size": 14907324,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\8\\PDFs\\কাওয়াইদুল লুগাতিল আরাবিয়্যাহ_2.pdf": {
+      "book_name": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/FZ80uZ9Z2bCdlLX",
+      "file_size": 14907324,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\বাংলা সাহিত্য_1.pdf": {
+      "book_name": "বাংলা সাহিত্য",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1ZQzUR8jhCuqK_50ejUefZAB9MRkRUXjH/view?usp=drive_link",
+      "file_size": 16829011,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\বাংলা সাহিত্য_2.pdf": {
+      "book_name": "বাংলা সাহিত্য",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/ISh9fzFaOhfs6HE",
+      "file_size": 16829011,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\বাংলা ভাষার ব্যাকরণ ও নির্মিতি_1.pdf": {
+      "book_name": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1WT2JT7VC3vC1XqO-9zKSTWukbItzF2Ik/view?usp=drive_link",
+      "file_size": 11733864,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\বাংলা ভাষার ব্যাকরণ ও নির্মিতি_2.pdf": {
+      "book_name": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/UJ5uhDUVxi1khwK",
+      "file_size": 11733864,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\English For Today_1.pdf": {
+      "book_name": "English For Today",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1pIuyetTqCwAKK8PGwrUckLoaE-mHmShw/view?usp=drive_link",
+      "file_size": 13361390,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\English For Today_2.pdf": {
+      "book_name": "English For Today",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/jzNrgSh1WsYLagg",
+      "file_size": 13361390,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\English Grammar and Composition_1.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1d3sXGQYTOq_Tz4kxkvoQFaRtSoyIZI6x/view?usp=drive_link",
+      "file_size": 16041290,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\English Grammar and Composition_2.pdf": {
+      "book_name": "English Grammar and Composition",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/ZrsU4cSwo2slpIv",
+      "file_size": 16041290,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\গণিত_1.pdf": {
+      "book_name": "গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1x6hbKYDIuhj9t3oEhMTSadUoPC1jtDwS/view?usp=drive_link",
+      "file_size": 17605294,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\গণিত_2.pdf": {
+      "book_name": "গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/9VNaN9EASLC28xd",
+      "file_size": 17605294,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_1.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1k8lgAYgyd_uA--L9zsI5yWeFv4OZR4tj/view?usp=drive_link",
+      "file_size": 14740840,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\বাংলাদেশ ও বিশ্বপরিচয়_2.pdf": {
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/sAh2nmxmvz8SSRW",
+      "file_size": 14740840,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_1.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1fbz09a5uPYgNHe1Zt3q9A--yX3YtFYti/view?usp=drive_link",
+      "file_size": 15924107,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\তথ্য ও যোগাযোগ প্রযুক্তি_2.pdf": {
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/b31NA4I6Y51WQLy",
+      "file_size": 15924107,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\শারীরিক শিক্ষা, স্বাস্থ্যবিজ্ঞান ও খেলাধুলা_1.pdf": {
+      "book_name": "শারীরিক শিক্ষা, স্বাস্থ্যবিজ্ঞান ও খেলাধুলা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1afC1cbDHj5NguAqaIp3c_LjJ6zH4eL3s/view?usp=drive_link",
+      "file_size": 9790566,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\শারীরিক শিক্ষা, স্বাস্থ্যবিজ্ঞান ও খেলাধুলা_2.pdf": {
+      "book_name": "শারীরিক শিক্ষা, স্বাস্থ্যবিজ্ঞান ও খেলাধুলা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/f1ofJpzzdX7jobH",
+      "file_size": 9790566,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\ক্যারিয়ার শিক্ষা_1.pdf": {
+      "book_name": "ক্যারিয়ার শিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1KywA4YmbAzFmJRo4_mQgorBdqmuxQkR9/view?usp=drive_link",
+      "file_size": 5993604,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\ক্যারিয়ার শিক্ষা_2.pdf": {
+      "book_name": "ক্যারিয়ার শিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/VUkr6mWjaQx3cin",
+      "file_size": 5993604,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\পদার্থবিজ্ঞান_1.pdf": {
+      "book_name": "পদার্থবিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1FwvgM6UlIB54m42akLm10J7WnV5spu3u/view?usp=drive_link",
+      "file_size": 13884910,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\পদার্থবিজ্ঞান_2.pdf": {
+      "book_name": "পদার্থবিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/tlvkPMyzbDarWJl",
+      "file_size": 13884910,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\রসায়ন_1.pdf": {
+      "book_name": "রসায়ন",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1GXnyk_e5YZnwo881AlxN_Bm3FCQGgfq5/view?usp=drive_link",
+      "file_size": 17442333,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\রসায়ন_2.pdf": {
+      "book_name": "রসায়ন",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/jyzk4xNRASc34xw",
+      "file_size": 17442333,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\জীববিজ্ঞান_1.pdf": {
+      "book_name": "জীববিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1poT9QTsRdmjX0ILXACOq1F68kW_ye69D/view?usp=drive_link",
+      "file_size": 19491496,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\জীববিজ্ঞান_2.pdf": {
+      "book_name": "জীববিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/DvhoXHdFhQmUjaT",
+      "file_size": 19491496,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\উচ্চতর গণিত_1.pdf": {
+      "book_name": "উচ্চতর গণিত",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/16ibFdghW93t8Ixuoc2TQTdkQj6GMLViH/view?usp=drive_link",
+      "file_size": 15041977,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\উচ্চতর গণিত_2.pdf": {
+      "book_name": "উচ্চতর গণিত",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/WeeZy9gCQzLLOKF",
+      "file_size": 15041977,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\পৌরনীতি ও নাগরিকতা_1.pdf": {
+      "book_name": "পৌরনীতি ও নাগরিকতা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1m8ezY4-Ky-7zSfZW33q7rCTzZVxjmaxf/view?usp=drive_link",
+      "file_size": 9061262,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\পৌরনীতি ও নাগরিকতা_2.pdf": {
+      "book_name": "পৌরনীতি ও নাগরিকতা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/449gNC0yMtTsABu",
+      "file_size": 9061262,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\গার্হস্থ্যবিজ্ঞান_1.pdf": {
+      "book_name": "গার্হস্থ্যবিজ্ঞান",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1N33i4Rb97ajYk0fK0o2WiE3dyXRiXR0f/view?usp=drive_link",
+      "file_size": 12281894,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\গার্হস্থ্যবিজ্ঞান_2.pdf": {
+      "book_name": "গার্হস্থ্যবিজ্ঞান",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/62CEm1c0ukDBt8H",
+      "file_size": 12281894,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\কৃষিশিক্ষা_1.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/12Ln2PZXpImgFoyEqGm2RgCyHVtd_tLNQ/view?usp=drive_link",
+      "file_size": 14608482,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\কৃষিশিক্ষা_2.pdf": {
+      "book_name": "কৃষিশিক্ষা",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/ylWIYZ6LIpEGiLl",
+      "file_size": 14608482,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\কুরআন মাজিদ ও তাজভিদ_1.pdf": {
+      "book_name": "কুরআন মাজিদ ও তাজভিদ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1FabmMA0tSnv3C4BUcUXxoy2tnkr92Zbv/view?usp=drive_link",
+      "file_size": 23366030,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\কুরআন মাজিদ ও তাজভিদ_2.pdf": {
+      "book_name": "কুরআন মাজিদ ও তাজভিদ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/NLJRqHGvtP68LsE",
+      "file_size": 23366030,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\আকাইদ ও ফিকহ_1.pdf": {
+      "book_name": "আকাইদ ও ফিকহ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1xvkqi_nIE1vlVNi5AQwvpyD5_vxUzyGQ/view?usp=drive_link",
+      "file_size": 17234684,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\আকাইদ ও ফিকহ_2.pdf": {
+      "book_name": "আকাইদ ও ফিকহ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/8VL2neHGUFCn2Af",
+      "file_size": 17234684,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ_1.pdf": {
+      "book_name": "আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/135eT1CTKcY5w7lvq8WY898hglTthhe9L/view?usp=drive_link",
+      "file_size": 17019990,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ_2.pdf": {
+      "book_name": "আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/jFRh5sX6YsNCrKc",
+      "file_size": 17019990,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\কাওয়াইদুল লুগাতিল আরাবিয়্যাহ_1.pdf": {
+      "book_name": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/168e_UU14Fyq1WEo3KCcfONI5F1vB5h5t/view?usp=drive_link",
+      "file_size": 11566008,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\কাওয়াইদুল লুগাতিল আরাবিয়্যাহ_2.pdf": {
+      "book_name": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/DXDuaMhBYPys8Am",
+      "file_size": 11566008,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\হাদিস শরিফ_1.pdf": {
+      "book_name": "হাদিস শরিফ",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1JceRet1ffEl8Tz-oUDNd6m8Rkhvv0W6L/view?usp=drive_link",
+      "file_size": 19547646,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\হাদিস শরিফ_2.pdf": {
+      "book_name": "হাদিস শরিফ",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/WcguXJjUEOXgayN",
+      "file_size": 19547646,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\ইসলামের ইতিহাস_1.pdf": {
+      "book_name": "ইসলামের ইতিহাস",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1TjE8myRq7K1vv7rbG3bOUy9sne5EVLnM/view?usp=drive_link",
+      "file_size": 13607119,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\mad\\9\\PDFs\\ইসলামের ইতিহাস_2.pdf": {
+      "book_name": "ইসলামের ইতিহাস",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/o0OSkE5s6G47dsg",
+      "file_size": 13607119,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\6\\PDFs\\কর্মমুখী প্রকৌশল শিক্ষা-১_1.pdf": {
+      "book_name": "কর্মমুখী প্রকৌশল শিক্ষা-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1eRJu6gN3-PGeILBSXH8GaJLpnimlDEng/view?usp=drive_link",
+      "file_size": 4789340,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\6\\PDFs\\কর্মমুখী প্রকৌশল শিক্ষা-১_2.pdf": {
+      "book_name": "কর্মমুখী প্রকৌশল শিক্ষা-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/eApDxfmaf9mOWqj",
+      "file_size": 4789340,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\7\\PDFs\\কর্মমুখী প্রকৌশল শিক্ষা-২_1.pdf": {
+      "book_name": "কর্মমুখী প্রকৌশল শিক্ষা-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1fDztk4sFVoLoMyIHya8NUGU4XQW8QtEI/view?usp=drive_link",
+      "file_size": 7501627,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\7\\PDFs\\কর্মমুখী প্রকৌশল শিক্ষা-২_2.pdf": {
+      "book_name": "কর্মমুখী প্রকৌশল শিক্ষা-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/GWuVkQTwBrKB9Q9",
+      "file_size": 7501627,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\8\\PDFs\\কর্মমুখী প্রকৌশল শিক্ষা-৩_1.pdf": {
+      "book_name": "কর্মমুখী প্রকৌশল শিক্ষা-৩",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1eCaxt79F52-cMLJBkhRPFAExSm48J6r1/view?usp=drive_link",
+      "file_size": 7911690,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\8\\PDFs\\কর্মমুখী প্রকৌশল শিক্ষা-৩_2.pdf": {
+      "book_name": "কর্মমুখী প্রকৌশল শিক্ষা-৩",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/qu0bZVvXwVV70dI",
+      "file_size": 7911690,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\অ্যাগ্রোবেসড ফুড- ১_1.pdf": {
+      "book_name": "অ্যাগ্রোবেসড ফুড- ১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1-s3GeLjwCq5fuU5wMP6gDtM3GVjdGQUV/view?usp=drive_link",
+      "file_size": 7946113,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\অ্যাগ্রোবেসড ফুড- ১_2.pdf": {
+      "book_name": "অ্যাগ্রোবেসড ফুড- ১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/LgfXQ8CSC2Fz0kw",
+      "file_size": 7946113,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\অ্যাগ্রোবেসড ফুড- ২_1.pdf": {
+      "book_name": "অ্যাগ্রোবেসড ফুড- ২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1l4pQ1ZpUfoFnqFdcEvkGttUAzpLHcPVe/view?usp=drive_link",
+      "file_size": 7479974,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\অ্যাগ্রোবেসড ফুড- ২_2.pdf": {
+      "book_name": "অ্যাগ্রোবেসড ফুড- ২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/2gG1JSsyCHbAeMx",
+      "file_size": 7479974,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\বিল্ডিং মেইনটেন্যান্স-১_1.pdf": {
+      "book_name": "বিল্ডিং মেইনটেন্যান্স-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1hoIgyb44DBd8bKqj4sOtBL_AT53HL58b/view?usp=drive_link",
+      "file_size": 6659454,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\বিল্ডিং মেইনটেন্যান্স-১_2.pdf": {
+      "book_name": "বিল্ডিং মেইনটেন্যান্স-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/OiRyF9QIwqt7DDk",
+      "file_size": 6659454,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\বিল্ডিং মেইনটেন্যান্স-২_1.pdf": {
+      "book_name": "বিল্ডিং মেইনটেন্যান্স-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1biv9D5Pj5PelcUaNAje33MgZjYlVFEBO/view?usp=drive_link",
+      "file_size": 8119513,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\বিল্ডিং মেইনটেন্যান্স-২_2.pdf": {
+      "book_name": "বিল্ডিং মেইনটেন্যান্স-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/w63Ag3rHh0ghiX3",
+      "file_size": 8119513,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\জেনারেল ইলেকট্রনিক্স- ১_1.pdf": {
+      "book_name": "জেনারেল ইলেকট্রনিক্স- ১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1tNMvfIRxIiKeD7otprWWuSxIOW-6bDlM/view?usp=drive_link",
+      "file_size": 9481333,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\জেনারেল ইলেকট্রনিক্স- ১_2.pdf": {
+      "book_name": "জেনারেল ইলেকট্রনিক্স- ১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/ki7Zs8EbEpTd8nY",
+      "file_size": 9481333,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\জেনারেল ইলেকট্রনিক্স- ২_1.pdf": {
+      "book_name": "জেনারেল ইলেকট্রনিক্স- ২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/16cgokqwJ-5RL5UIUxjex8JYweuU86ScH/view?usp=drive_link",
+      "file_size": 5298103,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\জেনারেল ইলেকট্রনিক্স- ২_2.pdf": {
+      "book_name": "জেনারেল ইলেকট্রনিক্স- ২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/6pkLMzUqCZDcgXG",
+      "file_size": 5298103,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\উড ওয়ার্কিং -১_1.pdf": {
+      "book_name": "উড ওয়ার্কিং -১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1US_reMcLTs2NS6mlAcJZ9E7Poc8Hd5f_/view?usp=drive_link",
+      "file_size": 8098531,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\উড ওয়ার্কিং -১_2.pdf": {
+      "book_name": "উড ওয়ার্কিং -১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/pzzvdimNEgI8A8c",
+      "file_size": 8098531,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\উড ওয়ার্কিং -২_1.pdf": {
+      "book_name": "উড ওয়ার্কিং -২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1MnlnIgh2qXneN8wpNKhJEgqIE5z91o9o/view?usp=drive_link",
+      "file_size": 7475960,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\উড ওয়ার্কিং -২_2.pdf": {
+      "book_name": "উড ওয়ার্কিং -২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/emMRkDYC8NKiPQ0",
+      "file_size": 7475960,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\অটোমোবাইল অ্যান্ড ইলেকট্রিক বেসিকস-১_1.pdf": {
+      "book_name": "অটোমোবাইল অ্যান্ড ইলেকট্রিক বেসিকস-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1dWHaceiKYcBq8T8fyx1KOngSSGj39pxr/view?usp=drive_link",
+      "file_size": 6878908,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\অটোমোবাইল অ্যান্ড ইলেকট্রিক বেসিকস-১_2.pdf": {
+      "book_name": "অটোমোবাইল অ্যান্ড ইলেকট্রিক বেসিকস-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/5pP9BXT5eqWBpY7",
+      "file_size": 6878908,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\অটোমোবাইল অ্যান্ড ইলেকট্রিক বেসিকস-২_1.pdf": {
+      "book_name": "অটোমোবাইল অ্যান্ড ইলেকট্রিক বেসিকস-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/14xwXHoIlTDMfif_aXm82JpEolRfC6gnH/view?usp=drive_link",
+      "file_size": 7529071,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\অটোমোবাইল অ্যান্ড ইলেকট্রিক বেসিকস-২_2.pdf": {
+      "book_name": "অটোমোবাইল অ্যান্ড ইলেকট্রিক বেসিকস-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/vBkL2fXbSsKuI9u",
+      "file_size": 7529071,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\আইটি সাপোর্ট অ্যান্ড আইওটি বেসিকস-১_1.pdf": {
+      "book_name": "আইটি সাপোর্ট অ্যান্ড আইওটি বেসিকস-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/15GMc3uCLxU1VdNSWB5OTfT8b0Ag3CCc6/view?usp=drive_link",
+      "file_size": 8092526,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\আইটি সাপোর্ট অ্যান্ড আইওটি বেসিকস-১_2.pdf": {
+      "book_name": "আইটি সাপোর্ট অ্যান্ড আইওটি বেসিকস-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/E78MsXwvmQO7Hcu",
+      "file_size": 8092526,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\আইটি সাপোর্ট অ্যান্ড আইওটি বেসিকস-২_1.pdf": {
+      "book_name": "আইটি সাপোর্ট অ্যান্ড আইওটি বেসিকস-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1zOULgyixfptdzWnYgK_sSFKn19ZCj_A4/view?usp=drive_link",
+      "file_size": 8607175,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\আইটি সাপোর্ট অ্যান্ড আইওটি বেসিকস-২_2.pdf": {
+      "book_name": "আইটি সাপোর্ট অ্যান্ড আইওটি বেসিকস-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/PlTjFlSxoaWziMP",
+      "file_size": 8607175,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\সিভিল কনস্ট্রাকশন অ্যান্ড সেফটি-১_1.pdf": {
+      "book_name": "সিভিল কনস্ট্রাকশন অ্যান্ড সেফটি-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1mC5q0NRAY4kofMKwFVOmOgz--PNJsFoX/view?usp=drive_link",
+      "file_size": 7195242,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\সিভিল কনস্ট্রাকশন অ্যান্ড সেফটি-১_2.pdf": {
+      "book_name": "সিভিল কনস্ট্রাকশন অ্যান্ড সেফটি-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/jQQwDQfZy5rhv9O",
+      "file_size": 7195242,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\সিভিল কনস্ট্রাকশন অ্যান্ড সেফটি-২_1.pdf": {
+      "book_name": "সিভিল কনস্ট্রাকশন অ্যান্ড সেফটি-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/12b-aOY1GJRQpY4pAAqvyInK5Aeux5y_v/view?usp=drive_link",
+      "file_size": 6439988,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\সিভিল কনস্ট্রাকশন অ্যান্ড সেফটি-২_2.pdf": {
+      "book_name": "সিভিল কনস্ট্রাকশন অ্যান্ড সেফটি-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/1K45bXgwPtJFOrr",
+      "file_size": 6439988,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-১_1.pdf": {
+      "book_name": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Lg0MVGe4jKL8eUS6OuQ7IoZLi44PbgR_/view?usp=drive_link",
+      "file_size": 7518309,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-১_2.pdf": {
+      "book_name": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/DHtWco7btnocLHe",
+      "file_size": 7518309,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-২_1.pdf": {
+      "book_name": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-২",
+      "link_number": 1,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/mhK1yUW14gc5oXd",
+      "file_size": 7981493,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-২_2.pdf": {
+      "book_name": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/mhK1yUW14gc5oXd",
+      "file_size": 7981493,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\সিভিল ড্রাফটিং উইথ ক্যাড-১_1.pdf": {
+      "book_name": "সিভিল ড্রাফটিং উইথ ক্যাড-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Vs0LgHgtBFqWyadkGhPTXItIUoshfhtI/view?usp=drive_link",
+      "file_size": 4649284,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\সিভিল ড্রাফটিং উইথ ক্যাড-১_2.pdf": {
+      "book_name": "সিভিল ড্রাফটিং উইথ ক্যাড-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/kIzWCIjgD2zBdsv",
+      "file_size": 4649284,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\সিভিল ড্রাফটিং উইথ ক্যাড-২_1.pdf": {
+      "book_name": "সিভিল ড্রাফটিং উইথ ক্যাড-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1mNwFHcLV5wKEHYmzy8502GCi5H9C0ztD/view?usp=drive_link",
+      "file_size": 4840951,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\সিভিল ড্রাফটিং উইথ ক্যাড-২_2.pdf": {
+      "book_name": "সিভিল ড্রাফটিং উইথ ক্যাড-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/u5OWlMJpSojiTev",
+      "file_size": 4840951,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\অ্যাপারেল ম্যানুফেকচারিং বেসিকস-১_1.pdf": {
+      "book_name": "অ্যাপারেল ম্যানুফেকচারিং বেসিকস-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1ngOz0c-zjtaYmSanVKO0y93OYcaDM-JG/view?usp=drive_link",
+      "file_size": 7523285,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\অ্যাপারেল ম্যানুফেকচারিং বেসিকস-১_2.pdf": {
+      "book_name": "অ্যাপারেল ম্যানুফেকচারিং বেসিকস-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/4YzpNnta5iC49sW",
+      "file_size": 7523285,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\অ্যাপারেল ম্যানুফেকচারিং বেসিকস-২_1.pdf": {
+      "book_name": "অ্যাপারেল ম্যানুফেকচারিং বেসিকস-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Rm2ISwiXPc7E03i9x3Zg5w710smP8Nuy/view?usp=drive_link",
+      "file_size": 4933948,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\অ্যাপারেল ম্যানুফেকচারিং বেসিকস-২_2.pdf": {
+      "book_name": "অ্যাপারেল ম্যানুফেকচারিং বেসিকস-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/jGZqsvTaOGrhPmZ",
+      "file_size": 4933948,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ডাইং, প্রিন্টিং অ্যান্ড ফিনিশিং-১_1.pdf": {
+      "book_name": "ডাইং, প্রিন্টিং অ্যান্ড ফিনিশিং-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Ig-Dm9arfAbXE4zz-RS-Tk9m6sbsVq3h/view?usp=drive_link",
+      "file_size": 9258820,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ডাইং, প্রিন্টিং অ্যান্ড ফিনিশিং-১_2.pdf": {
+      "book_name": "ডাইং, প্রিন্টিং অ্যান্ড ফিনিশিং-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/mo6av5GHl7V3xdC",
+      "file_size": 9258820,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ডাইং, প্রিন্টিং অ্যান্ড ফিনিশিং-২_1.pdf": {
+      "book_name": "ডাইং, প্রিন্টিং অ্যান্ড ফিনিশিং-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/18QRI2QOKb_U2-3rQD63CJGgF6jNSh_YS/view?usp=drive_link",
+      "file_size": 8078889,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ডাইং, প্রিন্টিং অ্যান্ড ফিনিশিং-২_2.pdf": {
+      "book_name": "ডাইং, প্রিন্টিং অ্যান্ড ফিনিশিং-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/iensGZg1noFct0p",
+      "file_size": 8078889,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ইলেকট্রিক্যাল মেইনটেন্যান্স ওয়ার্কস-১_1.pdf": {
+      "book_name": "ইলেকট্রিক্যাল মেইনটেন্যান্স ওয়ার্কস-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1vttdP8DIQlvyrZsa8FqtLIxQYdPJk0Ox/view?usp=drive_link",
+      "file_size": 7651465,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ইলেকট্রিক্যাল মেইনটেন্যান্স ওয়ার্কস-১_2.pdf": {
+      "book_name": "ইলেকট্রিক্যাল মেইনটেন্যান্স ওয়ার্কস-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/JrY5eAcfi2jIqOp",
+      "file_size": 7651465,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ইলেকট্রিক্যাল মেইনটেন্যান্স ওয়ার্কস-২_1.pdf": {
+      "book_name": "ইলেকট্রিক্যাল মেইনটেন্যান্স ওয়ার্কস-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1saY4Og6HZvMXhnV33pwPBPZwf62vv3xk/view?usp=drive_link",
+      "file_size": 8944657,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ইলেকট্রিক্যাল মেইনটেন্যান্স ওয়ার্কস-২_2.pdf": {
+      "book_name": "ইলেকট্রিক্যাল মেইনটেন্যান্স ওয়ার্কস-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/VWDS0IgIm3ocBTF",
+      "file_size": 8944657,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফার্ম মেশিনারি-১_1.pdf": {
+      "book_name": "ফার্ম মেশিনারি-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1qR7DLgjrkZShnp0Q5h0WecUsn_1qp8mM/view?usp=drive_link",
+      "file_size": 9375884,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফার্ম মেশিনারি-১_2.pdf": {
+      "book_name": "ফার্ম মেশিনারি-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/bX6jSSWtCj9o9Ma",
+      "file_size": 9375884,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফার্ম মেশিনারি-২_1.pdf": {
+      "book_name": "ফার্ম মেশিনারি-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1WbwdpXoDTjtQBYwCBe_nUrJBWFeCH2zg/view?usp=drive_link",
+      "file_size": 10442340,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফার্ম মেশিনারি-২_2.pdf": {
+      "book_name": "ফার্ম মেশিনারি-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/YiDhlhmiU95Pl22",
+      "file_size": 10442340,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফিস কালচার অ্যান্ড ব্রিডিং-১_1.pdf": {
+      "book_name": "ফিস কালচার অ্যান্ড ব্রিডিং-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1YmLnxqkozRbW32iq_wEAwkm-yxxnXIZr/view?usp=drive_link",
+      "file_size": 10838339,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফিস কালচার অ্যান্ড ব্রিডিং-১_2.pdf": {
+      "book_name": "ফিস কালচার অ্যান্ড ব্রিডিং-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/rwefPP5GFvCnK8C",
+      "file_size": 6015537,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফিস কালচার অ্যান্ড ব্রিডিং-২_1.pdf": {
+      "book_name": "ফিস কালচার অ্যান্ড ব্রিডিং-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Ov9lAE0lr62mIVp8oSwl0YJVLgpkGGUd/view?usp=drive_link",
+      "file_size": 6015537,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফিস কালচার অ্যান্ড ব্রিডিং-২_2.pdf": {
+      "book_name": "ফিস কালচার অ্যান্ড ব্রিডিং-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/SupoeNvZp5cdMeT",
+      "file_size": 10838339,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফুড প্রসেসিং অ্যান্ড প্রিজারভেশন-১_1.pdf": {
+      "book_name": "ফুড প্রসেসিং অ্যান্ড প্রিজারভেশন-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1y9gOQTHoii19zUWGd7r0HSGOsZpF61_G/view?usp=drive_link",
+      "file_size": 7709766,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফুড প্রসেসিং অ্যান্ড প্রিজারভেশন-১_2.pdf": {
+      "book_name": "ফুড প্রসেসিং অ্যান্ড প্রিজারভেশন-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/MBka0WSHIdiTQ3Y",
+      "file_size": 7709766,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফুড প্রসেসিং অ্যান্ড প্রিজারভেশন-২_1.pdf": {
+      "book_name": "ফুড প্রসেসিং অ্যান্ড প্রিজারভেশন-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/14KaQbFYWKyG41vXFTm8c1P8-6848Rglf/view?usp=drive_link",
+      "file_size": 7181228,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফুড প্রসেসিং অ্যান্ড প্রিজারভেশন-২_2.pdf": {
+      "book_name": "ফুড প্রসেসিং অ্যান্ড প্রিজারভেশন-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/R3STU8gApjnMJhd",
+      "file_size": 7181228,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\জেনারেল মেকানিক্স-১_1.pdf": {
+      "book_name": "জেনারেল মেকানিক্স-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1YU6UegiZec9g74beqUmuTKz4gu36Rlqv/view?usp=sharing",
+      "file_size": 8429593,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\জেনারেল মেকানিক্স-১_2.pdf": {
+      "book_name": "জেনারেল মেকানিক্স-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/goaRBxO49UAeZsR",
+      "file_size": 8429593,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\জেনারেল মেকানিক্স-২_1.pdf": {
+      "book_name": "জেনারেল মেকানিক্স-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1d-OeNxfQ-xGjInzsiH2ghdFe_i0LgWn8/view?usp=drive_link",
+      "file_size": 6522598,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\জেনারেল মেকানিক্স-২_2.pdf": {
+      "book_name": "জেনারেল মেকানিক্স-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/8GytpwDpbiZ3HSU",
+      "file_size": 6522598,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\লাইভস্টক রিয়ারিং অ্যান্ড ফার্মিং-১_1.pdf": {
+      "book_name": "লাইভস্টক রিয়ারিং অ্যান্ড ফার্মিং-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1YRV918Alf1mz16FXEQul7MytN5DOcQfy/view?usp=drive_link",
+      "file_size": 10695100,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\লাইভস্টক রিয়ারিং অ্যান্ড ফার্মিং-১_2.pdf": {
+      "book_name": "লাইভস্টক রিয়ারিং অ্যান্ড ফার্মিং-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/nU7ypMB17jHE3AJ",
+      "file_size": 10695100,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\লাইভস্টক রিয়ারিং অ্যান্ড ফার্মিং-২_1.pdf": {
+      "book_name": "লাইভস্টক রিয়ারিং অ্যান্ড ফার্মিং-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1wsqnA6eepnqNK-fcrcm5_NGCOuzLoKme/view?usp=drive_link",
+      "file_size": 6574078,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\লাইভস্টক রিয়ারিং অ্যান্ড ফার্মিং-২_2.pdf": {
+      "book_name": "লাইভস্টক রিয়ারিং অ্যান্ড ফার্মিং-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/gzNVZkxv3pUHnrQ",
+      "file_size": 6574078,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\মেশিন অপারেশন বেসিকস-১_1.pdf": {
+      "book_name": "মেশিন অপারেশন বেসিকস-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1r-TLpXs5l4dt8Pq6C4J-ZUc_-5h7Kg_i/view?usp=drive_link",
+      "file_size": 10980387,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\মেশিন অপারেশন বেসিকস-১_2.pdf": {
+      "book_name": "মেশিন অপারেশন বেসিকস-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/ZXNiStrdxOcIwmC",
+      "file_size": 10980387,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\মেশিন অপারেশন বেসিকস-২_1.pdf": {
+      "book_name": "মেশিন অপারেশন বেসিকস-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/19oMh7dohZEn26n8TAES1X4_jEWfwIVw7/view?usp=drive_link",
+      "file_size": 11691679,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\মেশিন অপারেশন বেসিকস-২_2.pdf": {
+      "book_name": "মেশিন অপারেশন বেসিকস-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/QO2hVu7Z2DpQnSb",
+      "file_size": 11691679,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-১_1.pdf": {
+      "book_name": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1v3Sp2wFthere66ntQCmgoJ1WBkWkLv8R/view?usp=drive_link",
+      "file_size": 7588135,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-১_2.pdf": {
+      "book_name": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/ga5so4yiVrClm7G",
+      "file_size": 7588135,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-২_1.pdf": {
+      "book_name": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1PB6st51PY7YhIrtm-DmLx14QAhrsJhSg/view?usp=drive_link",
+      "file_size": 7584369,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-২_2.pdf": {
+      "book_name": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/nw23KeliTp6YxMQ",
+      "file_size": 7584369,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\পেশেন্ট কেয়ার টেকনিক-১_1.pdf": {
+      "book_name": "পেশেন্ট কেয়ার টেকনিক-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1axTrA5I4j5x9vaOjc9wuYsGEq2JFljtq/view?usp=drive_link",
+      "file_size": 9138184,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\পেশেন্ট কেয়ার টেকনিক-১_2.pdf": {
+      "book_name": "পেশেন্ট কেয়ার টেকনিক-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/YKx3GIzIuTtJuRi",
+      "file_size": 9138184,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\পেশেন্ট কেয়ার টেকনিক-২_1.pdf": {
+      "book_name": "পেশেন্ট কেয়ার টেকনিক-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1VyQeodAZw4ILb0R852dVkyhUaSLYju8H/view?usp=drive_link",
+      "file_size": 7302804,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\পেশেন্ট কেয়ার টেকনিক-২_2.pdf": {
+      "book_name": "পেশেন্ট কেয়ার টেকনিক-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/fyVcSc2LXQq2fLE",
+      "file_size": 7302804,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\জেনারেলে ইলেকট্রিক্যাল ওয়ার্কস-১_1.pdf": {
+      "book_name": "জেনারেলে ইলেকট্রিক্যাল ওয়ার্কস-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1h25GwwVly_7GZN2xjaLxupsZK-GL9AZM/view?usp=drive_link",
+      "file_size": 7266109,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\জেনারেলে ইলেকট্রিক্যাল ওয়ার্কস-১_2.pdf": {
+      "book_name": "জেনারেলে ইলেকট্রিক্যাল ওয়ার্কস-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/h0NYAvWn36IdFcw",
+      "file_size": 7266109,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\জেনারেলে ইলেকট্রিক্যাল ওয়ার্কস-২_1.pdf": {
+      "book_name": "জেনারেলে ইলেকট্রিক্যাল ওয়ার্কস-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1lTTtLOq_0M0zvllXEPkhh1298pVyx5pd/view?usp=drive_link",
+      "file_size": 6698187,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\জেনারেলে ইলেকট্রিক্যাল ওয়ার্কস-২_2.pdf": {
+      "book_name": "জেনারেলে ইলেকট্রিক্যাল ওয়ার্কস-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/vkypNPPwkzIeoEb",
+      "file_size": 6698187,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\প্লাম্বিং অ্যান্ড পাইপ ফিটিংস-১_1.pdf": {
+      "book_name": "প্লাম্বিং অ্যান্ড পাইপ ফিটিংস-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1XJnqHtPx_rZlkdodEqmxBbFPC2Iw07UV/view?usp=drive_link",
+      "file_size": 7202796,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\প্লাম্বিং অ্যান্ড পাইপ ফিটিংস-১_2.pdf": {
+      "book_name": "প্লাম্বিং অ্যান্ড পাইপ ফিটিংস-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/De7Yt9jl2I7zvmw",
+      "file_size": 7202796,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\প্লাম্বিং অ্যান্ড পাইপ ফিটিংস-২_1.pdf": {
+      "book_name": "প্লাম্বিং অ্যান্ড পাইপ ফিটিংস-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1L23wWki6xWqKXAfhhJHANwCs02taqtyL/view?usp=drive_link",
+      "file_size": 5092829,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\প্লাম্বিং অ্যান্ড পাইপ ফিটিংস-২_2.pdf": {
+      "book_name": "প্লাম্বিং অ্যান্ড পাইপ ফিটিংস-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/1C8iyjco70wyFty",
+      "file_size": 5092829,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\রেফ্রিজারেশন অ্যান্ড এয়ার কন্ডিশনিং-১_1.pdf": {
+      "book_name": "রেফ্রিজারেশন অ্যান্ড এয়ার কন্ডিশনিং-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1Yn0fUqexIFEe63fZmArEA3hffnTmZYe_/view?usp=drive_link",
+      "file_size": 10766350,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\রেফ্রিজারেশন অ্যান্ড এয়ার কন্ডিশনিং-১_2.pdf": {
+      "book_name": "রেফ্রিজারেশন অ্যান্ড এয়ার কন্ডিশনিং-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/CjRJNYqOeZBEyX0",
+      "file_size": 10766350,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\রেফ্রিজারেশন অ্যান্ড এয়ার কন্ডিশনিং-২_1.pdf": {
+      "book_name": "রেফ্রিজারেশন অ্যান্ড এয়ার কন্ডিশনিং-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1gDhQg8p-QqUCbWfCnut-FWFq6PvhSApp/view?usp=drive_link",
+      "file_size": 9536822,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\রেফ্রিজারেশন অ্যান্ড এয়ার কন্ডিশনিং-২_2.pdf": {
+      "book_name": "রেফ্রিজারেশন অ্যান্ড এয়ার কন্ডিশনিং-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/GrN2BtP6YnerhNQ",
+      "file_size": 9536822,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফ্রুট অ্যান্ড ভেজিটেবল কাল্টিভেশন-১_1.pdf": {
+      "book_name": "ফ্রুট অ্যান্ড ভেজিটেবল কাল্টিভেশন-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1fPZmb1Lp6Duq6Gdc-pcD5KD6MqQPv7_y/view?usp=drive_link",
+      "file_size": 8478465,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফ্রুট অ্যান্ড ভেজিটেবল কাল্টিভেশন-১_2.pdf": {
+      "book_name": "ফ্রুট অ্যান্ড ভেজিটেবল কাল্টিভেশন-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/6yitLDf4FOm8dsO",
+      "file_size": 8478465,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফ্রুট অ্যান্ড ভেজিটেবল কাল্টিভেশন-২_1.pdf": {
+      "book_name": "ফ্রুট অ্যান্ড ভেজিটেবল কাল্টিভেশন-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/13v6hKX-VMoUSL9SAKJWsvBic9eHrXPM6/view?usp=drive_link",
+      "file_size": 9277464,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ফ্রুট অ্যান্ড ভেজিটেবল কাল্টিভেশন-২_2.pdf": {
+      "book_name": "ফ্রুট অ্যান্ড ভেজিটেবল কাল্টিভেশন-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/mFAJ5VjMOAgvUOK",
+      "file_size": 9277464,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\উইভিং-১_1.pdf": {
+      "book_name": "উইভিং-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1JGkYYsA2tsylz1AGU5e_1ooOLM_sUEy-/view?usp=drive_link",
+      "file_size": 7644805,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\উইভিং-১_2.pdf": {
+      "book_name": "উইভিং-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/3nV5LBOnLwyA9Dv",
+      "file_size": 7644805,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\উইভিং-২_1.pdf": {
+      "book_name": "উইভিং-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1t-Ld-rngkhDaH26-Gt8A9W1Ei38YcJpc/view?usp=drive_link",
+      "file_size": 6105440,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\উইভিং-২_2.pdf": {
+      "book_name": "উইভিং-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/IO8AZORgR0wvIqu",
+      "file_size": 6105440,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ওয়েন্ডিং অ্যান্ড ফেব্রিকেশন-১_1.pdf": {
+      "book_name": "ওয়েন্ডিং অ্যান্ড ফেব্রিকেশন-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1fWHWIylK49W81w_JCgVi-T7U0q2je-p7/view?usp=drive_link",
+      "file_size": 11659220,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ওয়েন্ডিং অ্যান্ড ফেব্রিকেশন-১_2.pdf": {
+      "book_name": "ওয়েন্ডিং অ্যান্ড ফেব্রিকেশন-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/RrCWiGHhI2zr2Bk",
+      "file_size": 11659220,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ওয়েন্ডিং অ্যান্ড ফেব্রিকেশন-২_1.pdf": {
+      "book_name": "ওয়েন্ডিং অ্যান্ড ফেব্রিকেশন-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1JpU7f7Y4Cb8VxbvgSc1DWCXvl5zSPkhG/view?usp=drive_link",
+      "file_size": 6789023,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ওয়েন্ডিং অ্যান্ড ফেব্রিকেশন-২_2.pdf": {
+      "book_name": "ওয়েন্ডিং অ্যান্ড ফেব্রিকেশন-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/C2gfeIYMpKfDIV8",
+      "file_size": 6789023,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\আর্কিটেকচারাল ড্রাফটিং উইথ ক্যাড-১_1.pdf": {
+      "book_name": "আর্কিটেকচারাল ড্রাফটিং উইথ ক্যাড-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1bqF4KBulPcb3gc-9EUbfea0tkUaiUDKe/view?usp=drive_link",
+      "file_size": 6252149,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\আর্কিটেকচারাল ড্রাফটিং উইথ ক্যাড-১_2.pdf": {
+      "book_name": "আর্কিটেকচারাল ড্রাফটিং উইথ ক্যাড-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/OcSZ36QiJaIUXo1",
+      "file_size": 6252149,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\আর্কিটেকচারাল ড্রাফটিং উইথ ক্যাড-২_1.pdf": {
+      "book_name": "আর্কিটেকচারাল ড্রাফটিং উইথ ক্যাড-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/10lwpI7xZX8a17H9w84Yi8PphGFxyuGdr/view?usp=drive_link",
+      "file_size": 6395969,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\আর্কিটেকচারাল ড্রাফটিং উইথ ক্যাড-২_2.pdf": {
+      "book_name": "আর্কিটেকচারাল ড্রাফটিং উইথ ক্যাড-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/EiQUu53gVEk8NXo",
+      "file_size": 6395969,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\নিটিং-১_1.pdf": {
+      "book_name": "নিটিং-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1EGiYH92Y9TqSl-NPTfbl-3LfqRssBFIH/view?usp=drive_link",
+      "file_size": 8736188,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\নিটিং-১_2.pdf": {
+      "book_name": "নিটিং-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/KtvmWm9whWnRz21",
+      "file_size": 8736188,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\নিটিং-২_1.pdf": {
+      "book_name": "নিটিং-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1fCSz2mkgWb-77hdDt2lChjCj9vWIfvXP/view?usp=drive_link",
+      "file_size": 6616328,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\নিটিং-২_2.pdf": {
+      "book_name": "নিটিং-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Wxzo2jDCbuPoArH",
+      "file_size": 6616328,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\শ্রিম্প কালচার অ্যান্ড ব্রিডিং-১_1.pdf": {
+      "book_name": "শ্রিম্প কালচার অ্যান্ড ব্রিডিং-১",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/10rgxsQnbn_nMAodW6-VoNSesmNyLIiRq/view?usp=drive_link",
+      "file_size": 11432508,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\শ্রিম্প কালচার অ্যান্ড ব্রিডিং-১_2.pdf": {
+      "book_name": "শ্রিম্প কালচার অ্যান্ড ব্রিডিং-১",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/Vzg1vaajpoBRG2A",
+      "file_size": 9694319,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\শ্রিম্প কালচার অ্যান্ড ব্রিডিং-২_1.pdf": {
+      "book_name": "শ্রিম্প কালচার অ্যান্ড ব্রিডিং-২",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/12_4ozH4sASzE5toFoinSClY932UHPnom/view?usp=drive_link",
+      "file_size": 9694319,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\শ্রিম্প কালচার অ্যান্ড ব্রিডিং-২_2.pdf": {
+      "book_name": "শ্রিম্প কালচার অ্যান্ড ব্রিডিং-২",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/52onaZaeqNzFSeh",
+      "file_size": 11432508,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ইঞ্জিনিয়ারিং ড্রয়িং_1.pdf": {
+      "book_name": "ইঞ্জিনিয়ারিং ড্রয়িং",
+      "link_number": 1,
+      "original_url": "https://drive.google.com/file/d/1RbiGMMP5OpbqL6-l7FdbRfBWSrC2tww9/view?usp=drive_link",
+      "file_size": 14416237,
+      "status": "existing_file"
+    },
+    "2025\\secondary\\tech\\9\\PDFs\\ইঞ্জিনিয়ারিং ড্রয়িং_2.pdf": {
+      "book_name": "ইঞ্জিনিয়ারিং ড্রয়িং",
+      "link_number": 2,
+      "original_url": "https://drive.egovcloud.gov.bd/index.php/s/ED2S8NmGUgW2ACZ",
+      "file_size": 14416237,
+      "status": "existing_file"
+    }
+  },
+  "failed_downloads": [
+    {
+      "url": "https://drive.google.com/file/d/1B7JTf9c-3xwzc_RGeAy4t6SVFUvaaS1A/view?usp=drive_link",
+      "file_path": "2025\\secondary\\mad\\6\\PDFs\\কর্ম ও জীবনমুখী শিক্ষা_1.pdf",
+      "book_name": "কর্ম ও জীবনমুখী শিক্ষা",
+      "link_number": 1,
+      "error": "404 Client Error: Not Found for url: https://drive.usercontent.google.com/download?id=1B7JTf9c-3xwzc_RGeAy4t6SVFUvaaS1A&export=download",
+      "attempts": 2
+    }
+  ],
+  "statistics": {
+    "total_size_bytes": 8995471162,
+    "retry_count_used": 2,
+    "max_workers_used": 3
+  }
+}
